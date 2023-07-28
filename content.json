@@ -1,0 +1,134 @@
+{
+  "Format": "1.28.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/AdditionalLanguages",
+      "Entries": {
+        "Regnander.StardewValleySwedish": {
+          "ID": "Regnander.StardewValleySwedish",
+          "LanguageCode": "sv",
+          "ButtonTexture": "Mods/Regnander.StardewValleySwedish/Button",
+          "UseLatinFont": true,
+          "TimeFormat": "[HOURS_24_00]:[MINUTES]",
+          "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
+          "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
+        }
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Mods/Regnander.StardewValleySwedish/Button",
+      "FromFile": "assets/Button.png"
+    },
+    {
+      "LogName": "Dialogue",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/rainy, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Events",
+      "Action": "Load",
+      "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Tent, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_big, Data/Events/WizardHouse, Data/Events/Woods, Data/Events/BoatTunnel, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/QiNutRoom, Data/Events/FishShop",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Festivals",
+      "Action": "Load",
+      "Target": "Data/Festivals/fall16, Data/Festivals/fall27, Data/Festivals/FestivalDates, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter25, Data/Festivals/winter8",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "TV Channels",
+      "Action": "Load",
+      "Target": "Data/TV/CookingChannel, Data/TV/InterviewShow, Data/TV/TipChannel",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Various Data",
+      "Action": "Load",
+      "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Various Data",
+      "Action": "Load",
+      "Target": "Data/Bundles",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv",
+        "HasFlag": "canReadJunimoText"
+      }
+    },
+    {
+      "LogName": "Loose Sprites",
+      "Action": "Load",
+      "Target": "LooseSprites/Billboard, LooseSprites/ControllerMaps, LooseSprites/Cursors, LooseSprites/JojaCDForm, LooseSprites/JunimoNote",
+      "FromFile": "assets/{{Target}}.png",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Tilesheets",
+      "Action": "Load",
+      "Target": "Maps/bathhouse_tiles, Maps/coopTiles, Maps/DesertTiles, Maps/fall_beach, Maps/fall_outdoorsTileSheet, Maps/fall_town, Maps/Festivals, Maps/samshowtiles, Maps/spring_beach, Maps/spring_outdoorsTileSheet, Maps/spring_town, Maps/summer_beach, Maps/summer_outdoorsTileSheet, Maps/summer_town, Maps/TownIndoors, Maps/townInterior, Maps/winter_beach, Maps/winter_outdoorsTileSheet, Maps/winter_town",
+      "FromFile": "assets/{{Target}}.png",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Minigames",
+      "Action": "Load",
+      "Target": "Minigames/Intro, Minigames/jojacorps, Minigames/TitleButtons",
+      "FromFile": "assets/{{Target}}.png",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Schedule Strings",
+      "Action": "Load",
+      "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Other Strings",
+      "Action": "Load",
+      "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Credits",
+      "Action": "Load",
+      "Target": "Strings/credits",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Stardew Swedish",
+  "Author": "Regnander",
+  "Version": "0.0.0",
+  "MinimumApiVersion": "3.13.2",
+  "Description": "Swedish fan translation of Stardew Valley",
+  "UniqueID": "Regnander.StardewValleySwedish",
+  "UpdateKeys": [
+    "Nexus:"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.24.7"
+  }
+}
