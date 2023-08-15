@@ -1,6 +1,6 @@
 # Stardew Valley Swedish
 
-<div style="text-align:center">
+<div align="center">
 
 This repository is used to track the progress and hold the files of a little project of mine – to translate Stardew Valley into Swedish.
 
