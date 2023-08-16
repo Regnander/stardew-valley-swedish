@@ -1,6 +1,5 @@
 name: Spelling Errors / Improvements
 description: Report a spelling error or suggest improvements to the existing text
-title: ""
 labels: "spelling-errors-/-improvements-✍"
 assignees:
   - Regnander
