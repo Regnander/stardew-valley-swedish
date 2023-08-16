@@ -1,0 +1,10 @@
+documentation 📚:
+- '*.md'
+
+maintence 👩‍🔧:
+- '.github/**'
+- '*.json'
+
+translation 🌐:
+- 'assets/**/*.json'
+- 'assets/**/*.png'
