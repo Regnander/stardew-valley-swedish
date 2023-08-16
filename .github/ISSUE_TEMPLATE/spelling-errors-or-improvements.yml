@@ -1,0 +1,24 @@
+name: Spelling Errors / Improvements
+description: Report a spelling error or suggest improvements to the existing text
+title: ""
+labels: "spelling-errors-/-improvements-✍"
+assignees:
+  - Regnander
+body:
+  - type: textarea
+    id: existing_text
+    attributes:
+      label: 🔍 What have you found?
+      description: Please describe the concerned text or upload a screenshot (by dropping the image inside the input box below) to give additional context.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_text
+    attributes:
+      label: 🩹 How can this be improved?
+      description: Please suggest how the text can be improved.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Thank you for helping out! ❤
