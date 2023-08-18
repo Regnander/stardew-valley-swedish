@@ -13,11 +13,11 @@ This repository is used to track the progress and hold the files of a little pro
 ![Compatible with version](https://img.shields.io/badge/Compatible_with-v1.5.6-teal?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD5JREFUCNcNyrENwCAQBMHlRYCo4kPL1VDSi0oILVfJJhPsHcwDZMouCGTst8SYIROjh6RaF1bx+HRwiv%2FjAj0uCSB6jhSXAAAAAElFTkSuQmCC)
 <!-- [![Nexus link](https://img.shields.io/badge/Available_at-Nexus_Mods-df9945?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAERJREFUCNdjYAgNYGBgZeBiYNBg0HJg0GJa4cDgtWiBAIMTmFjAIMDgwLACSKwAE6sEGIRWcDUwSDUwNQA1sTIwgAwAANNPDcvqbnbVAAAAAElFTkSuQmCC)](https://www.nexusmods.com/stardewvalley/mods/0) -->
 
-**:rotating_light: For any spelling errors or improvements, go [here](https://github.com/Regnander/stardew-valley-swedish/issues/new/choose)! :rotating_light:**
+<!-- **:rotating_light: For any spelling errors or improvements, go [here](https://github.com/Regnander/stardew-valley-swedish/issues/new/choose)! :rotating_light:** -->
 
 </div>
 
-## :memo: Notes
+## :building_construction: Workflow
 ### Untranslated phrases 
 
 | Phrases                                           | Reason/Comment                                  |
@@ -34,5 +34,5 @@ This repository is used to track the progress and hold the files of a little pro
 | 1 Willow Lane       | Willow Lane 1   | To match the house numbering format used in Sweden                                                     |
 | 100 g               | 100G            | To avoid confusion with the abbreviation of the [gram](https://en.wikipedia.org/wiki/Gram) unit        |
 
-### Miscellaneous
+## :memo: Notes
 * [This font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used when translating several sprites
