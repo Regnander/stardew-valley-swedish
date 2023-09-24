@@ -30,12 +30,12 @@ This repository is used to track the progress and hold the files of a little pro
 | --------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 100g                        | 100 G                       | To avoid confusion with the abbreviation of the [gram](https://en.wikipedia.org/wiki/Gram) unit                          |
 | Join us. Thrive.            | Thrive with us.             | To reduce the number of characters in its translated form.                                                               |
-| `House No.` + `Street Name` | `Street Name` + `House No`. | To match the house numbering format used in Sweden                                                                       |
+| `House No.` + `Street Name` | `Street Name` + `House No.` | To match the house numbering format used in Sweden                                                                       |
 | Stardew Valley Fair         | Stardew Fair                | To reduce the number of characters and prevent it from being a mouthful in its translated form while keeping its context |
 | Stardew Valley Rose         | Stardew Rose                | (_Same as above_)                                                                                                        |
-| `<Item>` Juice              | Juice (`<Item>`)            | To avoid incorrect grammar and/or use of uppercase.                                                                      |
-| `<Item>` Roe                | Roe (`<Item>`)              | (_Same as above_)                                                                                                        |
-| `<Item>` Wine               | Wine (`<Item>`)             | (_Same as above_)                                                                                                        |
+| `Item` Juice                | Juice (`Item`)              | To avoid incorrect grammar and/or use of uppercase.                                                                      |
+| `Item` Roe                  | Roe (`Item`)                | (_Same as above_)                                                                                                        |
+| `Item` Wine                 | Wine (`Item`)               | (_Same as above_)                                                                                                        |
 
 ## :memo: Notes
 * [paint.net](https://www.getpaint.net/) was used for editing sprites.
