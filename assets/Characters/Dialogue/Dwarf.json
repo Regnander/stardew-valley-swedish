@@ -1,14 +1,14 @@
 {
-  "Introduction": "Hey, you're pretty good at mining, for a human.",
-  "Mon": "I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?",
-  "Tue": "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?",
-  "Wed": "Hey, wanna buy something?",
-  "Wed_6": "Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered...",
-  "Thu_4": "I feel most comfortable underground.#$e#The deeper underground the better.",
-  "Fri": "You've never seen a dwarf before, have you?",
-  "Sat_8": "The mines can be a treacherous place. Be careful, friend.",
-  "Sat": "It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?",
-  "Sun": "One day you'll have to tell me about this beverage you call \"milk\".",
-  "Thu": "You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you.",
-  "Fri_2": "Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy."
+  "Introduction": "Hallå där! Du är ganska bra på hacka sten för att vara en människa.",
+  "Mon": "Jag fick allt det här från ytan. Jag tar det bara från ditt folk på natten.#$e#Hmm? Vad menar du med \"privat egendom\"?",
+  "Tue": "Åh... grottmorotsgryta, grottmorotsstek, grottmorotssoppa och grottmorotsgratäng.#$e#... Och en ramekin med grottmorotsbrylé till efterrätt.#$e#Varför tittar du så där på mig?",
+  "Wed": "Hej, vill du köpa något?",
+  "Wed_6": "För länge sedan kände mitt folk till hemligheterna bakom avancerad teknologi. De arkeologiska bevisen pekar på det.#$e#Men jag undrar var det kom ifrån? Och vart tog allt vägen? Jag antar att vissa frågor aldrig kommer att besvaras...",
+  "Thu_4": "Jag känner mig mest bekväm under jorden.#$e#Ju djupare under jorden desto bättre.",
+  "Fri": "Du har aldrig sett en dvärg förut, eller hur?",
+  "Sat_8": "Gruvorna kan vara en förrädisk plats. Var försiktig, min vän.",
+  "Sat": "Det är farligt att vistas i gruvorna. Varför köper du inte några saker från min butik för att gardera dig?",
+  "Sun": "En dag måste du berätta för mig om den där drycken ni kallar \"mjölk\".",
+  "Thu": "Du är väl ingen spion som skuggfolket har skickat, eller hur?#$e#Jag håller ett öga på dig.",
+  "Fri_2": "De flesta människorna är rädda för det okända... Det är därför jag har gömt min butik här.#$e#Dina färdigheter av att bryta sten bevisar att du är pålitlig."
 }
