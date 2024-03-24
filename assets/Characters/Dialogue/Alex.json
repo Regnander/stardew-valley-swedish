@@ -50,7 +50,7 @@
   "summer_Mon": "Hej, bondkillen. Du ser lite solbränd ut.^Hej, bondtjejen. Du har en snygg solbränna.$h#$e#Ju mer jag övar under sommaren, desto lättare blir det för mig att bli proffs.#$e#Då skulle du kunna säga att du kände mig en gång. Häftigt, eller hur?",
   "summer_Tue": "Om mitt hår inte vore så populärt bland tjejerna svär jag att jag skulle raka bort allt på ett nafs.#$e#*suck*... Livet är tufft ibland.",
   "summer_Wed": "Hej, gårdskillen. Jag har en fråga till dig.^Hej, gårdstjejen. Jag har en fråga till dig.#$b#$q 52/53 summer_Wed_01_old#Tror du att jag någonsin kommer att bli proffs?#$r 52 30 summer_Wed_01_01#Du är ämnad till att bli en sportlegend#$r 52 0 summer_Wed_01_02#Kanske... om du övar tillräckligt mycket#$r 53 -50 summer_Wed_01_03#Nej, du kommer sannolikt att misslyckas och bli en försäljare",
-  "summer_Wed_01_old": "$p 52#Hej, när jag blir proffs kan du säga att du var mitt första \"fan\". Inte illa, va?|Hej, jag har övat dubbelt så mycket så att jag kan bli proffs och bevisa att du har fel. Vänta du bara.$a",
+  "summer_Wed_01_old": "$p 52#Hej, när jag blir proffs kan du säga att du var mitt första \"fan\". Inte illa, eller hur?|Hej, jag har övat dubbelt så mycket så att jag kan bli proffs och bevisa att du har fel. Vänta du bara.$a",
   "summer_Wed_01_01": "Nämen ser man på!$h#$e#Du är häftigare än vad jag trodde.",
   "summer_Wed_01_02": "Jo, jag är så bra att jag inte kommer behöva öva så mycket.$u",
   "summer_Wed_01_03": "Det är sinnessjukt. Du är bara avundsjuk på att jag är begåvad och populär till skillnad från dig.$a^Det är löjligt. Du är bara avundsjuk på att jag är mycket mer populär än vad du någonsin kommer att bli, ditt missfoster.$a#$e#Lämna mig ifred.$a",
