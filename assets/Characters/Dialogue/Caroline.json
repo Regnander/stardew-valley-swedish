@@ -1,7 +1,7 @@
 {
   "Introduction": "Hallå! Du måste vara @, den nya bonden. Jag heter Caroline.#$e#Min man driver lanthandeln här. Har du träffat min dotter Abigail? Hon är den bleka tjejen med det lila håret.",
   "Resort_Entering": "Willy gav oss en varsin bit torkad fisk. Jag tuggar fortfarande på den.",
-  "Resort_Leaving": "Ikväll ska jag sova gott!$h",
+  "Resort_Leaving": "I kväll ska jag sova gott!$h",
   "Resort_Shore": "Vattnet är så varmt här jämfört med i dalen. Det är verkligen trevligt!",
   "Resort_Chair": "%Caroline försöker ta en tupplur.",
   "Resort_Bar": "Jag sa åt Gus att överraska mig och han gjorde grönt iste med mangozest. Vad trevligt!$h",
@@ -11,7 +11,7 @@
   "Mon8": "#$1 Caroline23#När vi först flyttade till hit brukade jag i hemlighet gå till trollkarlens torn. Berätta inte detta för Pierre, han blir lätt avundsjuk.#$e#Abigail föddes ungefär ett år efter flytten. Jag undrar om hon någonsin kommer att uppleva livet utanför dalen?",
   "Tue": "Jag har hittat vildvuxen pepparrot i skogen.#$e#Att samla resurser kan vara ett roligt sätt att tjäna lite pengar. Eller så kan du använda det du hittar som gåvor eller mat.",
   "Wed": "Hallå där. Har du allt du behöver för gården?#$e#Om inte kanske vi kan hjälpa dig.#$e#Vi har en mängd användbara föremål.",
-  "Thu": "#$1 Caroline1#Hmmm... Jag undrar om jag kan få Pierre att laga middag ikväll.#$e#Hmmm... Vad ska jag göra till middag ikväll?#$e#Jag kanske bara ska beställa något från saloonen.",
+  "Thu": "#$1 Caroline1#Hmmm... Jag undrar om jag kan få Pierre att laga middag i kväll.#$e#Hmmm... Vad ska jag göra till middag i kväll?#$e#Jag kanske bara ska beställa något från saloonen.",
   "Fri": "Det är en fin dag.#$e#På dagar som dessa gillar jag att hjälpa Evelyn med rabatterna.#$e#Hon är stark för sin ålder, men jag tror att hon uppskattar all hjälp hon kan få.",
   "Sat": "Tycker du också att Abigail har ett ohälsosamt intresse för melankoli?#$e#Kanske är jag bara för gammal för att förstå.",
   "Sat_inlaw_Abigail": "Middagarna blev mycket tystare sedan Abigail flyttade ut...#$e#Nej, inte för att hon brukade tugga med öppen mun!$h",
