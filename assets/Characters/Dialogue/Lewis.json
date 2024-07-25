@@ -22,7 +22,7 @@
   "spring_10": "Ah... Det finns inget bättre än en stark kopp te på morgonkvisten.",
   "Thu": "Det blir ganska livligt på kvällen i saloonen. Ibland stoppar vi även in ett slant i jukeboxen, hehe.$h#$e#Jag gillar att gå dit någon gång i veckan för att hålla mig uppdaterad om saker och ting.",
   "Saloon": "God kväll! Vad trevligt att se dig umgås med stadsborna.#$b#Det är bra att komma förbi emellanåt och höra vad som hänt.$h",
-  "Saloon4": "God kväll, @! Vad kul att se dig koppla av i saloonen. Det är bra för dig att ta en paus då och då.$h#$b#Din morfar arbetade alltid för hårt... Ikväll tar jag en extra öl i hans ära.",
+  "Saloon4": "God kväll, @! Vad kul att se dig koppla av i saloonen. Det är bra för dig att ta en paus då och då.$h#$b#Din morfar arbetade alltid för hårt... I kväll tar jag en extra öl i hans ära.",
   "Fri": "Jag hoppas att det går bra på %farm-gården. Jag skulle avsky att se allt torka ut.",
   "Sat": "Tycker du inte att alla verkar vara lite gladare på helgerna?#$e#Jag arbetar dock sju dagar i veckan.",
   "Sun": "Jag har varit Pelikanstadens borgmästare i över tjugo år!#$e#Ingen har någonsin kandiderat mot mig när det är dags för val. Jag vill tro att detta betyder att jag gör ett bra jobb.#$e#Jag gillar att vara borgmästare.",
@@ -33,7 +33,7 @@
   "summer_Tue": "Hur jag blev borgmästare till att börja med? Det är en lång historia.#$e#Vi är båda alltför upptagna för berättelser just nu.",
   "summer_Wed": "Månljusmaneterna kommer snart hit. Det är en av mina favorithändelser i dalen.",
   "summer_Thu": "Det blir ganska livligt på kvällen i saloonen.#$e#Jag gillar att besöka den en gång i veckan för att hålla mig uppdaterad om saker och ting. Och för att smaka på Gus autentiska spaghetti.",
-  "summer_Fri": "Hmm... Undrar om någon fyller år idag. Jag bör nog ta en titt i kalendern utanför Pierres affär.",
+  "summer_Fri": "Hmm... Undrar om någon fyller år i dag. Jag bör nog ta en titt i kalendern utanför Pierres affär.",
   "summer_Sat": "Tycker du inte att alla verkar vara lite gladare på helgerna?#$e#Jag arbetar dock sju dagar i veckan.",
   "summer_Sun": "Odlar du blåbär på din gård?#$e#Jag tycker om färska blåbär.%revealtasteLewis258",
   "fall_Mon": "Vissa stadsbor är försiktiga med främlingar. Man måste vinna deras förtroende innan de öppnar upp sig.#$e#Var bara ihärdig så kommer de att öppna upp sig.$h",
@@ -53,5 +53,5 @@
   "winter_Wed": "Jag kommer fortfarande förbi varje natt för att samla in det du lämnar i fraktlådan, även i snöväder.#$e#Du behöver fortfarande tjäna in pengar på vintern!",
   "winter_Fri": "Jag hoppas att det går bra för dig på gården.",
   "winter_Fri6": "Jag har aldrig varit gift och har ingen familj. Allt jag lever för är att vara borgmästare.$s#$e#Är det värt det?$s#$e#...*suck*...$s",
-  "winter_Sun": "Hallå där, @! Hur är det med dig idag?$h#$e#Hälsa Marnie från mig om du träffar henne."
+  "winter_Sun": "Hallå där, @! Hur är det med dig i dag?$h#$e#Hälsa Marnie från mig om du träffar henne."
 }
