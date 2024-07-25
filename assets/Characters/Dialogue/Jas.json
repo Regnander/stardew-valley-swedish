@@ -7,8 +7,8 @@
   "reject_869": "Usch, vad äckligt!$s",
   "Mon": "Åh... Letar du efter moster Marnie?$u",
   "Mon4": "Hej, herr @.^Hej, fröken @.#$e#Det är roligt att bo på en gård.$h",
-  "Tue": "Vad då? *fniss*$h#$e#...Hej.",
-  "Tue6": "Du får leka med mina dockor om du vill. Se bara till att borsta deras hår när du har lekt färdigt.",
+  "Tue": "Vad är det? *fniss*$h#$e#...Hej.",
+  "Tue6": "Du får leka med mina dockor om du vill. Borsta deras hår när du har lekt färdigt med dem.",
   "Wed": "...$u",
   "Wed2": "...Hej.$u",
   "Wed4": "Moster Marnie låter mig inte vara ute efter klockan 6. Det är orättvist!$s#$e#Jag är inte längre rädd för mörkret!",
@@ -21,6 +21,6 @@
   "Sat2": "Ibland letar jag efter kräftor i floden. Berätta inte för moster Marnie... men en gång matade jag en sådan till en kossa.#$e#Hon älskade det.",
   "Sat8": "Du är alltid så trevlig mot mig, herr @$h^Du är alltid så trevlig mot mig, fröken @.$h#$e#Vuxna är vanligtvis otrevliga och tråkiga, men du är annorlunda.",
   "Sun": "Öh... V... vill du mig något?$u#$e#Jag får inte prata med främlingar.$u",
-  "Sun2": "Shane är ofta borta och moster Marnie är upptagen hela tiden... så jag måste hitta på egna lekar.#$e#Jag är tacksam för alla mina leksaker.$h",
-  "Sun10": "Visste du att Shane är min gudfar? Han var kompis med mina föräldrar.$s#$e#...de är döda. *snyft*$s"
+  "Sun2": "Shane är ofta borta och moster Marnie är upptagen hela tiden... så jag måste leka på egna hand.#$e#Jag är tacksam för alla mina leksaker.$h",
+  "Sun10": "Visste du att Shane är min gudfar? Han var kompis med mina föräldrar.$s#$e#...De är döda. *snyft*$s"
 }
