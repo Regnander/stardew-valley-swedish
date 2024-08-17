@@ -78,7 +78,7 @@
   "fall_Sat": "Nu är det för kallt för att gå till stranden.#$q 44 fall_Sat_old#*suck*... Vad tycker du att jag ska göra i dag?#$r 44 10 fall_Sat_12#Måla med akvarell#$r 44 20 fall_Sat_12#Slappna av och läs ett tidning#$r 44 -30 fall_Sat_13#Sluta vara en självisk gnällspik",
   "fall_Sat_old": "Jag ska förmodligen ta en tupplur senare.",
   "fall_Sat_12": "Hmm... Det var faktiskt en ganska bra idé.",
-  "fall_Sat_13": "Lämna mig ifred, din idiot.$a",
+  "fall_Sat_13": "Lämna mig i fred, din idiot.$a",
   "fall_Sun": "Jag har aldrig varit i skogen. Det är lerigt och jag kan få blåsor på foten.",
   "fall_Tue2": "Jag känner lukten av jord...#$b#Åh, just det. Du arbetar på en gård.",
   "fall_Fri4": "Det ser ut som om du har arbetat hårt.#$b#Varför tar du inte ledigt resten av dagen?",
