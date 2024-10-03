@@ -41,6 +41,6 @@ This repository is used to track the progress and hold the files of a little pro
 | Journey of the Prairie King                                   | The Story of the Prairie King                                  | To avoid awkward phrasing while keeping the `X of the Y` format.                                                           |
 
 ## :memo: Notes
-* [paint.net](https://www.getpaint.net/) and [this font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used when editing sprites.
-* [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4) was used when translating date-specific events and dialogue.
-* [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) was used when translating item names and descriptions.
+* [paint.net](https://www.getpaint.net/) and [this font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used for editing sprites.
+* [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4) was used for translating date-specific events and dialogue.
+* [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) was used for translating item names and descriptions.
