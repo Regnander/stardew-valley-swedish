@@ -5,7 +5,7 @@
 This repository is used to track the progress and hold the files of a little project of mine – to translate Stardew Valley into Swedish.
 
 ![Text translation progress](https://img.shields.io/badge/Text_translation-~95%25-yellowgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC)
-![Text proofreading progress](https://img.shields.io/badge/Text_proofreading-32.9%25-orange?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAADxJREFUCNdjYAADrRVAooGJgYGJi6GBgUkBSAgpskxgCGJwBLIcHScwAOWAEiAlHKuAipVAujpAhAIQAwAurgir4gw+RQAAAABJRU5ErkJggg==)
+![Text proofreading progress](https://img.shields.io/badge/Text_proofreading-33.4%25-orange?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAADxJREFUCNdjYAADrRVAooGJgYGJi6GBgUkBSAgpskxgCGJwBLIcHScwAOWAEiAlHKuAipVAujpAhAIQAwAurgir4gw+RQAAAABJRU5ErkJggg==)
 <br>
 ![Sprite translation progress](https://img.shields.io/badge/Sprite_translation-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==)
 ![Sprite proofreading progress](https://img.shields.io/badge/Sprite_proofreading-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEdJREFUCNdjYHQIYGBgWtXCwMDhkMLAoMjlCSQYOxwYFByAhCIDhwCQCyY4HRg4GTQcGNhWLXJgYGHwaGBgYXRSYGAMcWgAAFjJCh1O5Ek2AAAAAElFTkSuQmCC)
@@ -41,6 +41,6 @@ This repository is used to track the progress and hold the files of a little pro
 | Journey of the Prairie King                                   | The Story of the Prairie King                                  | To avoid awkward phrasing while keeping the `X of the Y` format.                                                           |
 
 ## :memo: Notes
-* [paint.net](https://www.getpaint.net/) and [this font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used when editing sprites.
-* [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4) was used when translating date-specific events and dialogue.
-* [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) was used when translating item names and descriptions.
+* [paint.net](https://www.getpaint.net/) and [this font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used for editing sprites.
+* [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4) was used for translating date-specific events and dialogue.
+* [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) was used for translating item names and descriptions.
