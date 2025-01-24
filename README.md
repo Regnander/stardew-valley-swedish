@@ -8,20 +8,23 @@ This repository is used to track the progress and hold the files of a little pro
 
 <sup>Text & sprite progress, respectively:</sup><br>
 ![Text translation progress](https://img.shields.io/badge/Translation-~95%25-53A505?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC) 
-![Text proofreading progress](https://img.shields.io/badge/Proofreading-44.2%25-b5980a?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCWb//7SQAAAD9JREFUCNdjYAADrRVAooGJgSGIi6GBgU0BSDClCDQwhLm4TGBgcwmYwBAkIDKBgQmkhGMVULESSFcHiFAAYgBk1QoTsaLFxwAAAABJRU5ErkJggg==)<br>
+![Text proofreading progress](https://img.shields.io/badge/Proofreading-46.4%25-b5980a?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCWb//7SQAAAD9JREFUCNdjYAADrRVAooGJgSGIi6GBgU0BSDClCDQwhLm4TGBgcwmYwBAkIDKBgQmkhGMVULESSFcHiFAAYgBk1QoTsaLFxwAAAABJRU5ErkJggg==)<br>
 ![Sprite translation progress](https://img.shields.io/badge/Translation-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==) 
 ![Sprite proofreading progress](https://img.shields.io/badge/Proofreading-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEdJREFUCNdjYHQIYGBgWtXCwMDhkMLAoMjlCSQYOxwYFByAhCIDhwCQCyY4HRg4GTQcGNhWLXJgYGHwaGBgYXRSYGAMcWgAAFjJCh1O5Ek2AAAAAElFTkSuQmCC)<br><br>
 <sup>Compatible versions:</sup><br>
-![Current versions](https://img.shields.io/badge/Current-v1.5.6-teal?logo=data%3Aimage%2Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAADtJREFUCNcNyrENACAQw0CDKBBTfImYhpFeTELNlLi5wgmMC0TISahIPyvFGFUGRg9BlibsZPp0cOJdPj0WCRa64sOFAAAAAElFTkSuQmCC) 
+![Current versions](https://img.shields.io/badge/Currently-v1.5.6-teal?logo=data%3Aimage%2Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAADtJREFUCNcNyrENACAQw0CDKBBTfImYhpFeTELNlLi5wgmMC0TISahIPyvFGFUGRg9BlibsZPp0cOJdPj0WCRa64sOFAAAAAElFTkSuQmCC) 
 ![Planned versions](https://img.shields.io/badge/Planned-v1.6.8_•_v1.6.9+-734ab5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCAmytOGAAAAElJREFUCNcVy7EJgDAURdH7g4i/ywhBFHSLuIFF7IOTvCIjmH3V+nCwucGkG5wAS3JRQcSgkyeTKZDoDJX1h+uwyF5G4f1rtjVeYkEKqX89b/kAAAAASUVORK5CYII=)
-<!-- [![Nexus link](https://img.shields.io/badge/Available_at-Nexus_Mods-df9945?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAERJREFUCNdjYAgNYGBgZeBiYNBg0HJg0GJa4cDgtWiBAIMTmFjAIMDgwLACSKwAE6sEGIRWcDUwSDUwNQA1sTIwgAwAANNPDcvqbnbVAAAAAElFTkSuQmCC)](https://www.nexusmods.com/stardewvalley/mods/0) -->
+<!-- 
+----
 
-<!-- **:rotating_light: For any spelling errors or improvements, go [here](https://github.com/Regnander/stardew-valley-swedish/issues/new/choose)! :rotating_light:** -->
+[![Nexus link](https://img.shields.io/badge/Available_at-Nexus_Mods-df9945?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAERJREFUCNdjYAgNYGBgZeBiYNBg0HJg0GJa4cDgtWiBAIMTmFjAIMDgwLACSKwAE6sEGIRWcDUwSDUwNQA1sTIwgAwAANNPDcvqbnbVAAAAAElFTkSuQmCC)](https://www.nexusmods.com/stardewvalley/mods/0)
+
+**:rotating_light: For any spelling errors or improvements, go [here](https://github.com/Regnander/stardew-valley-swedish/issues/new/choose)! :rotating_light:** -->
 
 </div>
 
 ## :building_construction: Workflow
-### :page_facing_up: Unmodified phrases 
+**Unmodified phrases**
 
 <details>
 <summary>View/hide table</summary>
@@ -33,7 +36,7 @@ This repository is used to track the progress and hold the files of a little pro
 | Caught fish sizes | Please use the [Inches To Metric System](https://www.nexusmods.com/stardewvalley/mods/3760) mod. |
 </details>
 
-### :memo: Modified phrases
+**Modified phrases**
 <details>
 <summary>View/hide table</summary>
 
