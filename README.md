@@ -8,7 +8,7 @@ This repository is used to track the progress and hold the files of a little pro
 
 <sup>Text & sprite progress, respectively:</sup><br>
 ![Text translation progress](https://img.shields.io/badge/Translation-~95%25-53A505?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC) 
-![Text proofreading progress](https://img.shields.io/badge/Proofreading-51.4%25-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCWb//7SQAAAD9JREFUCNdjYAADrRVAooGJgSGIi6GBgU0BSDClCDQwhLm4TGBgcwmYwBAkIDKBgQmkhGMVULESSFcHiFAAYgBk1QoTsaLFxwAAAABJRU5ErkJggg==)<br>
+![Text proofreading progress](https://img.shields.io/badge/Proofreading-55.3%25-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCWb//7SQAAAD9JREFUCNdjYAADrRVAooGJgSGIi6GBgU0BSDClCDQwhLm4TGBgcwmYwBAkIDKBgQmkhGMVULESSFcHiFAAYgBk1QoTsaLFxwAAAABJRU5ErkJggg==)<br>
 ![Sprite translation progress](https://img.shields.io/badge/Translation-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==) 
 ![Sprite proofreading progress](https://img.shields.io/badge/Proofreading-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEdJREFUCNdjYHQIYGBgWtXCwMDhkMLAoMjlCSQYOxwYFByAhCIDhwCQCyY4HRg4GTQcGNhWLXJgYGHwaGBgYXRSYGAMcWgAAFjJCh1O5Ek2AAAAAElFTkSuQmCC)<br><br>
 <sup>Compatible versions:</sup><br>
@@ -56,6 +56,9 @@ This repository is used to track the progress and hold the files of a little pro
 </details>
 
 ### :hammer_and_wrench: Tools
+**Hardware**
+* [Wacom Intuos Small](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos) was used for creating any hand-written text.
+
 **Software**
 * [paint.net](https://www.getpaint.net/) and [this font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used for editing sprites.
 * [Visual Studio Code](https://code.visualstudio.com/) was used for editing text files and version control management.
