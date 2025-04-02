@@ -8,4 +8,4 @@ assignees:
 # A number of assignees to add to the pull request
 # Set to 0 to add all of the assignees.
 # Uses numberOfReviewers if unset.
-numberOfAssignees: 1
+numberOfAssignees: 0
