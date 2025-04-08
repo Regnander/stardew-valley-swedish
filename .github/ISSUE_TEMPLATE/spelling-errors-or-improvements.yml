@@ -6,7 +6,9 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: Feel free to report what you''ve found in either Swedish or English!
+      value: |
+      Feel free to report what you've found in either Swedish or English!
+      Thank you for helping out! ❤
   - type: textarea
     id: existing_text
     attributes:
@@ -21,6 +23,3 @@ body:
       description: Please suggest how the text can be improved.
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: Thank you for helping out! ❤
