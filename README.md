@@ -8,18 +8,17 @@ This repository is used to track the progress and hold the files of a little pro
 
 <sup>Text & sprite progress, respectively:</sup><br>
 ![Text translation progress](https://img.shields.io/badge/Translation-~95%25-53A505?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC) 
-![Text proofreading progress](https://img.shields.io/badge/Proofreading-55.3%25-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCWb//7SQAAAD9JREFUCNdjYAADrRVAooGJgSGIi6GBgU0BSDClCDQwhLm4TGBgcwmYwBAkIDKBgQmkhGMVULESSFcHiFAAYgBk1QoTsaLFxwAAAABJRU5ErkJggg==)<br>
+![Text proofreading progress](https://img.shields.io/badge/Proofreading-59.1%25-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCWb//7SQAAAD9JREFUCNdjYAADrRVAooGJgSGIi6GBgU0BSDClCDQwhLm4TGBgcwmYwBAkIDKBgQmkhGMVULESSFcHiFAAYgBk1QoTsaLFxwAAAABJRU5ErkJggg==)<br>
 ![Sprite translation progress](https://img.shields.io/badge/Translation-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==) 
 ![Sprite proofreading progress](https://img.shields.io/badge/Proofreading-100%25-darkgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEdJREFUCNdjYHQIYGBgWtXCwMDhkMLAoMjlCSQYOxwYFByAhCIDhwCQCyY4HRg4GTQcGNhWLXJgYGHwaGBgYXRSYGAMcWgAAFjJCh1O5Ek2AAAAAElFTkSuQmCC)<br><br>
 <sup>Compatible versions:</sup><br>
 ![Current versions](https://img.shields.io/badge/Currently-v1.5.6-teal?logo=data%3Aimage%2Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAADtJREFUCNcNyrENACAQw0CDKBBTfImYhpFeTELNlLi5wgmMC0TISahIPyvFGFUGRg9BlibsZPp0cOJdPj0WCRa64sOFAAAAAElFTkSuQmCC) 
 ![Planned versions](https://img.shields.io/badge/Planned-v1.6.8_•_v1.6.9+-734ab5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///////+ZwRTAAAAACdFJOUwCAmytOGAAAAElJREFUCNcVy7EJgDAURdH7g4i/ywhBFHSLuIFF7IOTvCIjmH3V+nCwucGkG5wAS3JRQcSgkyeTKZDoDJX1h+uwyF5G4f1rtjVeYkEKqX89b/kAAAAASUVORK5CYII=)
-<!-- 
-----
 
+<!-- <sup>Download:</sup><br>
 [![Nexus link](https://img.shields.io/badge/Available_at-Nexus_Mods-df9945?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAERJREFUCNdjYAgNYGBgZeBiYNBg0HJg0GJa4cDgtWiBAIMTmFjAIMDgwLACSKwAE6sEGIRWcDUwSDUwNQA1sTIwgAwAANNPDcvqbnbVAAAAAElFTkSuQmCC)](https://www.nexusmods.com/stardewvalley/mods/0)
 
-**:rotating_light: For any spelling errors or improvements, go [here](https://github.com/Regnander/stardew-valley-swedish/issues/new/choose)! :rotating_light:** -->
+:rotating_light: [Report any spelling errors or improvements here!](https://github.com/Regnander/stardew-valley-swedish/issues/new?template=spelling-errors-or-improvements.yml) :rotating_light: -->
 
 </div>
 
@@ -44,9 +43,9 @@ This repository is used to track the progress and hold the files of a little pro
 | ------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 100g                                                          | 100 G                                                          | To avoid confusion with the [gram](https://en.wikipedia.org/wiki/Gram) unit abbreviation.                                  |
 | Join us. Thrive.                                              | Thrive with us.                                                | To reduce the number of characters in its translated form.                                                                 |
-| `HOUSE NO.` `STREET`<br><small>*e.g. '2 Willow Lane'*</small> | `STREET` `HOUSE NO.`<br><small>*e.g. 'Willow Lane 2'*</small>  | To match the house numbering format used in Sweden.                                                                        |
-| Stardew Valley Fair                                           | Stardew Fair                                                   | To reduce the number of characters and prevent it from being a mouthful in its translated form, while keeping its context. |
-| Stardew Valley Rose                                           | Stardew Rose                                                   | (_Same as above_)                                                                                                          |
+| `HOUSE NO.` `STREET`<br><small>*e.g. '2 Willow Lane'*</small> | `STREET` `HOUSE NO.`<br><small>*e.g. 'Willow Lane 2'*</small>  | To match the house numbering format used in Sweden.                                                                        |
+| Stardew Valley Fair                                           | Stardew Fair                                                   | To reduce the number of characters and prevent it from being a mouthful in its translated form, while keeping its context. |
+| Stardew Valley Rose                                           | Stardew Rose                                                   | (_Same as above_)                                                                                                          |
 | `VEGETABLE` Juice<br><small>*e.g. 'Pumpkin Juice'*</small>    | Juice (`VEGETABLE`)<br><small>*e.g. 'Juice (pumpkin)'*</small> | To avoid incorrect grammar and/or use of uppercase in some special cases.                                                  |
 | `FISH` Roe<br><small>*e.g. 'Sturgeon Roe'*</small>            | Roe (`FISH`)<br><small>*e.g. 'Roe (sturgeon)'*</small>         | (_Same as above_)                                                                                                          |
 | `FRUIT` Wine<br><small>*e.g. 'Melon Wine'*</small>            | Wine (`FRUIT`)<br><small>*e.g. 'Wine (melon)'*</small>         | (_Same as above_)                                                                                                          |
@@ -66,3 +65,6 @@ This repository is used to track the progress and hold the files of a little pro
 **Mods**
 * [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4) was used for translating date-specific events and dialogue.
 * [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) was used for translating item names and descriptions.
+
+## :triangular_flag_on_post: Known issues
+* Due to how this translation handles the wine item (as described in **Modified phrases**), anything acquired from the Traveling Cart or gifted from Leah/Elliott is presented with empty parenthesis as "Wine ()".
