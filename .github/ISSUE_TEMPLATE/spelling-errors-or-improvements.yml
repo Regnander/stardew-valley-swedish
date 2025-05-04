@@ -12,16 +12,14 @@ body:
   - type: textarea
     id: existing_text
     attributes:
-      label: |
-        :mag: What have you found?
+      label: 🔍 What have you found?
       description: Please provide a description or upload a screenshot to give additional context.
     validations:
       required: true
   - type: textarea
     id: suggested_text
     attributes:
-      label: |
-        :adhesive_bandage: How can this be improved?
+      label: 🩹 How can this be improved?
       description: Please suggest how the text can be improved.
     validations:
       required: true
