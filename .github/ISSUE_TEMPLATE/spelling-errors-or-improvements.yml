@@ -8,7 +8,7 @@ body:
     attributes:
       value: |
         Feel free to report what you've found in either Swedish or English!
-        Thank you for helping out! ❤
+        Thank you for helping out! :heart:
   - type: textarea
     id: existing_text
     attributes:
