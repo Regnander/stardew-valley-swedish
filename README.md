@@ -90,7 +90,7 @@ Download the file [SMAPI v3.18.6](https://www.nexusmods.com/stardewvalley/mods/2
 Download [Content Patcher v1.30.4](https://www.nexusmods.com/stardewvalley/mods/1915?tab=files&file_id=78987) (the latest version that support v1.5.6 of Stardew Valley). Unpack the file in the `Mods` folder in your Stardew Valley installation folder.
 
 ### Install stardew-valley-swedish
-Alright, time to install the translations. Download the [zip file](https://github.com/Regnander/stardew-valley-swedish/archive/refs/heads/1.5.6.zip) and unpack it in the `Mods` folder in your Stardew Valley installation folder.
+Alright, all prerequisits are in place, time to install this translation mod. Download the [zip file containg this mod](https://github.com/Regnander/stardew-valley-swedish/archive/refs/heads/1.5.6.zip) and unpack it in the `Mods` folder in your Stardew Valley installation folder.
 
 ### Select Svenska in-game
 Once SMAPI and the mods are installed, its time to start the game. Start it the [way SMAPI tells you](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_SMAPI) to run it on your platform. Once you reach the main menu in the game, press the small language selector button on the right of the screen (:speech_balloon: like a "pratbubbla"), and then press the right arrow in the windows with the language names. This will scroll to another page of languages possible to select, and that is where you will find `Svenska`.
