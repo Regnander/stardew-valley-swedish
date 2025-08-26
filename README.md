@@ -68,3 +68,29 @@ This repository is used to track the progress and hold the files of a little pro
 
 ## :triangular_flag_on_post: Known issues
 * Due to how this translation handles the wine and juice item (as described in **Modified phrases**), anything acquired from the Traveling Cart or gifted from characters is presented with empty parenthesis as "Wine ()" / "Juice ()".
+
+## :clipboard: Installation instructions
+To run this mod you need to do 5 simple things;
+
+1. Downgrade Stardew Valley to version 1.5.6
+1. Install [SMAPI v3.18.6](https://www.nexusmods.com/stardewvalley/mods/2400?tab=files&file_id=76802)
+1. Install [Content Patcher v1.30.4](https://www.nexusmods.com/stardewvalley/mods/1915?tab=files&file_id=78987)
+1. Install [stardew-valley-swedish](https://github.com/Regnander/stardew-valley-swedish/archive/refs/heads/1.5.6.zip)
+1. Start the game and select `Svenska`
+
+Let's take them one by one.
+
+### Downgrade Stardew Valley to v1.5.6
+Steam: Right click on Stardew Valley in your game list, select `Properties`. Go to the menu for `Beta versions`, in the properties window, select `legacy_1.5.6 - The legacy 1.5.6 version of Stardew Valley` in the drop-down list `Beta participation`. Close the properties window and let Stardew Valley update the game to get the 1.5.6 version.
+
+### Install SMAPI v3.18.6
+Download the file [SMAPI v3.18.6](https://www.nexusmods.com/stardewvalley/mods/2400?tab=files&file_id=76802) (the latest version that support v1.5.6 of Stardew Valley) and unpack it anywhere. Run the installer script for your platform.
+
+### Install Content Patcher v1.30.4
+Download [Content Patcher v1.30.4](https://www.nexusmods.com/stardewvalley/mods/1915?tab=files&file_id=78987) (the latest version that support v1.5.6 of Stardew Valley). Unpack the file in the `Mods` folder in your Stardew Valley installation folder.
+
+### Install stardew-valley-swedish
+Alright, time to install the translations. Download the [zip file](https://github.com/Regnander/stardew-valley-swedish/archive/refs/heads/1.5.6.zip) and unpack it in the `Mods` folder in your Stardew Valley installation folder.
+
+### Select Svenska in-game
+Once SMAPI and the mods are installed, its time to start the game. Start it the [way SMAPI tells you](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_SMAPI) to run it on your platform. Once you reach the main menu in the game, press the small language selector button on the right of the screen (:speech_balloon: like a "pratbubbla"), and then press the right arrow in the windows with the language names. This will scroll to another page of languages possible to select, and that is where you will find `Svenska`.
