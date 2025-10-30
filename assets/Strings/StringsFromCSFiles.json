@@ -1786,7 +1786,7 @@
   "ResourceCollectionQuest.cs.13688": "\n- Du får behålla malmen när Clint har inspekterat den.",
   "ResourceCollectionQuest.cs.13691": "{0}/{1} {2} insamlat",
   "SlayMonsterQuest.cs.13696": "Besegra monster",
-  "SlayMonsterQuest.cs.13711": "Monster som kallas \"markgrävare\" ställer till det i den lokala gruvan! All hål som de gräver kan försvaga gruvans strukturella integritet. Kan någon besegra {0} stycken av dem?",
+  "SlayMonsterQuest.cs.13711": "Monster som kallas \"tunnelgrävare\" ställer till det i den lokala gruvan! All hål som de gräver kan försvaga gruvans strukturella integritet. Kan någon besegra {0} stycken av dem?",
   "SlayMonsterQuest.cs.13723": "Sökes: Slemjägare som kan besegra {0} {1}",
   "SlayMonsterQuest.cs.13725": "frostslem i gruvans nedfrysta djup.",
   "SlayMonsterQuest.cs.13727": "rött slem i den djupa lavagrottan i den lokala gruvan.",
