@@ -20,7 +20,7 @@
   "Mon_22": "Det är nästan samma anledning till att jag också flyttade hit!$h",
   "Mon_211132": "Det är väldigt gulligt av dig att hedra din farfar så där.",
   "Tue4": "Hej. Åh, vill du prata med mig?#$e#Landskapet här omkring ger mig många idéer. Terrängen är nästan som en skulptur i sig.#$e#Jag skapar inte konst för pengarnas skull. Det är bara ett behov som jag har.#$e#Jordbruk verkar vara ett mycket givande yrke. Du får möjligheten att skapa utsökt mat åt alla!$h#$e#Du är förmodligen upptagen. Förlåt.",
-  "Tue": "Hej, granne.#$e#Vi båda bor utanför staden. Betyder det något?",
+  "Tue": "Hej, granne.#$e#Vi båda bor utanför staden. Betyder det någonting?",
   "Wed": "#$1 LeahBug#I morse klev jag av misstag på ett insekt.$s#$e#Ibland tror jag att det är omöjligt att leva utan att förstöra naturen på något sätt.",
   "Wed6": "Jag älskar att vara omgiven av djur. De är så oskyldiga.#$e#Gårdsdjur är också underbara.$h",
   "Wed8": "Hej, @! Jag tänkte precis på dig och din gård.#$e#Jag föreställde mig hur bra det måste kännas att skörda en massa grödor.$h#$e#Skulle det dock inte vara trevligt att få hjälp?$l",
@@ -42,7 +42,7 @@
   "event_parents4": "*suck*...$s#$b#Jag antar att du har rätt... Det var lite själviskt av mig. Men kan du verkligen beskylla mig för att jag ville vara lycklig? *stön*... Jag vet inte...$s",
   "event_parents5": "*suck*...$s#$b#Du kanske har rätt... Människor är själviska varelser. Jag vet inte. $s#$b#Jag borde förmodligen inte grubbla över det. Vi alla måste emellanåt göra svåra val.$s",
   "summer_1": "Det känns på den söta doften av nektar i luften att sommaren är här!$h",
-  "summer_Mon": "Jag hittade lite frukt ute i det vilda i morse!#$e#Tyvärr har jag inget kvar.$s#$e#Fortsätt att leta, jag är säker på att du hittar något.",
+  "summer_Mon": "Jag hittade lite frukt ute i det vilda i morse!#$e#Tyvärr har jag inget kvar.$s#$e#Fortsätt att leta, jag är säker på att du hittar någonting.",
   "summer_Tue": "Ljudet från gårdsdjur är toppen, eller hur?",
   "summer_Tue4": "De enkla sakerna i livet är de bästa: en mjuk sommarbris, majestätiska moln och en bägare full av Stjärndaggsdalens röda vin.",
   "summer_Thu6": "Jag har lätt för att hitta frukt som växer i det vilda. En dag ska jag göra en god fruktsallad till dig.$h",
@@ -68,7 +68,7 @@
   "winter_Thu6": "*suck*... Det är svårt att skaffa färsk mat på vintern.#$e#Jag slår vad om att du har mycket mat på din gård, eller hur?",
   "winter_Fri": "Tiden verkar röra sig långsammare här.#$e#När jag bodde i storstaden gick åren så snabbt.",
   "winter_Fri6": "Händer det någonsin att du fryser i ditt hus på gården?#$e#Kom förbi min stuga om du vill kura ihop under en av mina filtar och dricka cider.$h",
-  "winter_Sat": "Hallå. Vill du mig något?",
-  "winter_Sat2": "Hallå, @. Är det något du vill prata om?",
+  "winter_Sat": "Hallå. Ville du mig någonting?",
+  "winter_Sat2": "Hallå, @. Är det någonting du vill prata om?",
   "winter_Sun": "Har du någonsin tagit ledigt en hel dag?#$e#Det är en uppfriskande paus."
 }
