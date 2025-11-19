@@ -32,8 +32,8 @@
   "summer_Mon6": "Jag blev forskare eftersom jag ville bidra till utvecklingen av vår art.#$e#Naturligtvis skulle inget av detta vara möjligt utan jordbrukare som dig.$h",
   "fall_Mon": "Under denna årstid avleder jag min uppmärksamhet till svampar.",
   "fall_Tue": "Vi vet mycket om naturen tack vare vetenskapen.#$e#Men det finns alltid mycket mer att lära sig.",
-  "fall_Thu": "Hur går jordbruksverksamheten? Det är säsong för majs, eller hur?#$e#Jag kan föreställa mig att det är ganska fridfullt att arbeta utomhus med växter hela dagen lång.",
-  "fall_Fri": "Maru spenderar säkert mycket tid på att arbeta med hennes prylarna.#$e#Jag är glad att hon är så hängiven.",
+  "fall_Thu": "Hur går jordbruksverksamheten? Visst är det är säsong för majs?#$e#Jag kan föreställa mig att det är ganska fridfullt att arbeta utomhus med växter hela dagen lång.",
+  "fall_Fri": "Maru spenderar verkligen mycket tid på sina makapärer.#$e#Jag är glad att hon är så hängiven.",
   "fall_Fri_inlaw_Maru": "Jag är fortfarande förbluffad över Marus hemliga robot... Var det en dröm?",
   "fall_Sat": "Nu ska vi se... Kanske kvävefixeringsnivån påverkas av nematodsekret...$u#$b#Åh! Förlåt. Jag funderade på lite data och jag såg dig inte.#$e#Ville du mig någonting?",
   "fall_Wed6": "Hej, @. Jag är alltid glad när du kommer på besök.#$e#Det är trevligt att ha sällskap efter allt ensamt arbete i laboratoriet.",
@@ -44,5 +44,5 @@
   "winter_Fri": "Hallå.#$e#%Demetrius verkar vara försjunken i tankar.",
   "winter_Sat": "Nu ska vi se... Om årstidsbundna kvävenivåer kan modelleras efter en hybridfunktion...$u#$b#Åh! Förlåt. Jag analyserade data och jag såg dig inte.#$e#Behöver du någonting?",
   "winter_Sun": "Rensa gärna bort så mycket timmer och sten från området som du vill.",
-  "winter_Fri4": "Tack för att du hälsar på. Jag behöver tänka på något annat än baljväxter ett tag.#$e#Vad har du gjort nyligen?#$e#Det låter intressant."
+  "winter_Fri4": "Tack för att du hälsar på. Jag behöver tänka på någonting annat än baljväxter ett tag.#$e#Vad har du gjort nyligen?#$e#Det låter intressant."
 }
