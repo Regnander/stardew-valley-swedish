@@ -328,7 +328,7 @@
   "Event.cs.1871": "Willy, med 5 stora färska fiskar!",
   "Event.cs.1872": "{0}, med {1} stora slemmiga fiskar!",
   "Farmer.cs.1918": "Du fick 15 palsternacksfrön!^^\"Här får du någonting för att komma igång.^-Borgmästare Lewis\"",
-  "Farmer.cs.1919": "Du fick {1} {0}!",
+  "Farmer.cs.1919": "Du fick {0}!",
   "Farmer.cs.1922": "Du fick {1} x{0}!",
   "Farmer.cs.1925": "Ny nivå",
   "Farmer.cs.1927": "Du börjar {0}...",
