@@ -50,7 +50,7 @@ This repository is used to track the progress and hold the files of a little pro
 | `FRUIT` Wine<br><small>*e.g. 'Melon Wine'*</small>            | Wine (`FRUIT`)<br><small>*e.g. 'Wine (melon)'*</small>         | (_Same as above_)                                                                                                          |
 | `METAL` `TOOL`<br><small>*e.g. 'Iridium Hoe'*</small>         | `TOOL` (`METAL`)<br><small>*e.g. 'Hoe (iridium)'*</small>      | (_Same as above_)<br><br>Only present in 1.6.8 and below.                                                                  |
 | Journey of the Prairie King                                   | The Story of the Prairie King                                  | To avoid awkward phrasing while keeping the `___ of the ___` format.                                                       |
-
+| SVT                                                           | Stardew Valley Tribune                                         | To avoid confusion with the [Swedish public television broadcaster 'Sveriges Television'](https://en.wikipedia.org/wiki/Sveriges_Television).                          |
 </details>
 
 ### :hammer_and_wrench: Tools
