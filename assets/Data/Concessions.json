@@ -2,8 +2,8 @@
   {
     "ID": 0,
     "Name": "Cotton Candy",
-    "DisplayName": "Cotton Candy",
-    "Description": "A large pink cloud of spun sugar.",
+    "DisplayName": "Sockervadd",
+    "Description": "Ett stort rosa moln av spunnet socker.",
     "Price": 50,
     "ItemTags": [
       "Sweet",
@@ -13,8 +13,8 @@
   {
     "ID": 1,
     "Name": "Jasmine Tea",
-    "DisplayName": "Jasmine Tea",
-    "Description": "Green tea flavored with aromatic jasmine flowers.",
+    "DisplayName": "Jasminte",
+    "Description": "Grönt te som har smaksatts med aromatiska jasminblommor.",
     "Price": 50,
     "ItemTags": [
       "Drink",
@@ -25,8 +25,8 @@
   {
     "ID": 2,
     "Name": "Joja Cola",
-    "DisplayName": "Joja Cola",
-    "Description": "An extra-large cup of Joja's flagship soda.",
+    "DisplayName": "Joja-cola",
+    "Description": "En extra stor mugg med Jojas flaggskeppsprodukt.",
     "Price": 40,
     "ItemTags": [
       "Drink",
@@ -37,8 +37,8 @@
   {
     "ID": 3,
     "Name": "Sour Slimes",
-    "DisplayName": "Sour Slimes",
-    "Description": "Tiny gummy slimes of assorted colors. They're sprinkled with an extremely sour powder.",
+    "DisplayName": "Sura slemmisar",
+    "Description": "Små slemmiga godisbitar i olika färger. Ett extremt surt pulver har strösslats över dem.",
     "Price": 80,
     "ItemTags": [
       "Sour",
@@ -48,8 +48,8 @@
   {
     "ID": 4,
     "Name": "Personal Pizza",
-    "DisplayName": "Personal Pizza",
-    "Description": "A pizza small enough to enjoy as a snack.",
+    "DisplayName": "Enmannapizza",
+    "Description": "En pizza som är tillräckligt liten för att avnjutas som ett mellanmål.",
     "Price": 150,
     "ItemTags": [
       "Hot",
@@ -60,7 +60,7 @@
     "ID": 5,
     "Name": "Nachos",
     "DisplayName": "Nachos",
-    "Description": "Gooey, spicy cheese on top of freshly fried tortilla chips.",
+    "Description": "En klibbig, kryddstark ost som har ringlats ovanpå nystekta tortillachips.",
     "Price": 100,
     "ItemTags": [
       "Hot",
@@ -71,8 +71,8 @@
   {
     "ID": 6,
     "Name": "Salmon Burger",
-    "DisplayName": "Salmon Burger",
-    "Description": "A thick slab of salmon on a lightly toasted sesame seed bun.",
+    "DisplayName": "Laxburgare",
+    "Description": "En tjock tillplattad laxbit inuti en lättrostad sesamfröbulle.",
     "Price": 150,
     "ItemTags": [
       "Sandwich",
@@ -82,8 +82,8 @@
   {
     "ID": 7,
     "Name": "Ice Cream Sandwich",
-    "DisplayName": "Ice Cream Sandwich",
-    "Description": "Vanilla ice cream sandwiched between two chocolate cookies.",
+    "DisplayName": "Glassandwich",
+    "Description": "Vaniljglass som är inklämd mellan två chokladkakor.",
     "Price": 150,
     "ItemTags": [
       "Sandwich",
@@ -95,7 +95,7 @@
     "ID": 8,
     "Name": "Popcorn",
     "DisplayName": "Popcorn",
-    "Description": "Popped kernels of corn, dusted lightly with salt and drizzled with butter.",
+    "Description": "Poppade majskorn som har saltats och smaksatts med smör.",
     "Price": 120,
     "ItemTags": [
       "Hot",
@@ -105,8 +105,8 @@
   {
     "ID": 9,
     "Name": "Fries",
-    "DisplayName": "Fries",
-    "Description": "Thin slices of potato, deep fried and then lightly salted.",
+    "DisplayName": "Pommes frites",
+    "Description": "Tunna potatisskivor som har friterats och sedan saltats.",
     "Price": 100,
     "ItemTags": [
       "Hot",
@@ -117,8 +117,8 @@
   {
     "ID": 10,
     "Name": "Chocolate Popcorn",
-    "DisplayName": "Chocolate Popcorn",
-    "Description": "It's normal popcorn... but with a chocolate coating.",
+    "DisplayName": "Chokladpopcorn",
+    "Description": "Vanliga popcorn... med doppade i choklad.",
     "Price": 130,
     "ItemTags": [
       "Hot",
@@ -128,16 +128,16 @@
   {
     "ID": 11,
     "Name": "Black Licorice",
-    "DisplayName": "Black Licorice",
-    "Description": "A chewy candy with an intense, pungent flavor.",
+    "DisplayName": "Svart lakrits",
+    "Description": "Ett svårtuggat godis med en intensiv och skarp smak.",
     "Price": 25,
     "ItemTags": null
   },
   {
     "ID": 12,
     "Name": "Star Cookie",
-    "DisplayName": "Star Cookie",
-    "Description": "A star-shaped shortbread cookie with rainbow sprinkles.",
+    "DisplayName": "Stjärnkaka",
+    "Description": "En stjärnformad kaka med regnbågsströssel.",
     "Price": 150,
     "ItemTags": [
       "Sweet"
@@ -146,8 +146,8 @@
   {
     "ID": 13,
     "Name": "Jawbreaker",
-    "DisplayName": "Jawbreaker",
-    "Description": "It's a big, hard candy that lasts the whole movie!",
+    "DisplayName": "Godiskula",
+    "Description": "Det är en stor, hård godisbit som varar hela filmen!",
     "Price": 250,
     "ItemTags": [
       "Sweet",
@@ -157,8 +157,8 @@
   {
     "ID": 14,
     "Name": "Salted Peanuts",
-    "DisplayName": "Salted Peanuts",
-    "Description": "A classic salty treat.",
+    "DisplayName": "Saltade jordnötter",
+    "Description": "Ett klassiskt saltat mellanmål.",
     "Price": 120,
     "ItemTags": [
       "Salty"
@@ -167,8 +167,8 @@
   {
     "ID": 15,
     "Name": "Hummus Snack Pack",
-    "DisplayName": "Hummus Snack Pack",
-    "Description": "It's crunchy and healthy.",
+    "DisplayName": "Hummusmellanmål",
+    "Description": "Det är knaprigt och hälsosamt.",
     "Price": 90,
     "ItemTags": [
       "Healthy"
@@ -177,8 +177,8 @@
   {
     "ID": 16,
     "Name": "Kale Smoothie",
-    "DisplayName": "Kale Smoothie",
-    "Description": "It's loaded with vitamins and fiber.",
+    "DisplayName": "Grönkålsmoothie",
+    "Description": "Den är full med vitaminer och fiber.",
     "Price": 120,
     "ItemTags": [
       "Drink",
@@ -188,8 +188,8 @@
   {
     "ID": 17,
     "Name": "Apple Slices",
-    "DisplayName": "Apple Slices",
-    "Description": "Crunchy and sweet little slices.",
+    "DisplayName": "Äppelskivor",
+    "Description": "Krispiga och söta små skivor.",
     "Price": 100,
     "ItemTags": [
       "Sweet",
@@ -199,8 +199,8 @@
   {
     "ID": 18,
     "Name": "Panzanella Salad",
-    "DisplayName": "Panzanella Salad",
-    "Description": "A summer salad of bread and tomatoes.",
+    "DisplayName": "Panzanella",
+    "Description": "En sommarsallad med bröd och tomater.",
     "Price": 200,
     "ItemTags": [
       "Gourmet",
@@ -210,8 +210,8 @@
   {
     "ID": 19,
     "Name": "Truffle Popcorn",
-    "DisplayName": "Truffle Popcorn",
-    "Description": "Heirloom popcorn sprinkled with truffle salt.",
+    "DisplayName": "Tryffelpopcorn",
+    "Description": "Kulturell popcornvariant som har strösslats med tryffelsalt.",
     "Price": 180,
     "ItemTags": [
       "Gourmet",
@@ -221,8 +221,8 @@
   {
     "ID": 20,
     "Name": "Cappuccino Mousse Cake",
-    "DisplayName": "Cappuccino Mousse Cake",
-    "Description": "A small chocolate cake glazed with a cappuccinio mousse.",
+    "DisplayName": "Cappuccinomoussetårta",
+    "Description": "En liten chokladkaka glaserad med cappuccinomousse.",
     "Price": 220,
     "ItemTags": [
       "Sweet",
@@ -233,7 +233,7 @@
     "ID": 21,
     "Name": "JojaCorn",
     "DisplayName": "JojaCorn",
-    "Description": "Joja's patented corn food, slathered in plenty of \"b'utter sauce\".",
+    "Description": "Jojas patenterade majsmat som har dränkts i mängder av smörliknande sås.",
     "Price": 10,
     "ItemTags": [
       "Joja"
@@ -242,8 +242,8 @@
   {
     "ID": 22,
     "Name": "Stardrop Sorbet",
-    "DisplayName": "Stardrop Sorbet",
-    "Description": "A single drop of stardrop essence tranforms this sorbet into an extraordinary treat.",
+    "DisplayName": "Stjärndaggsorbet",
+    "Description": "En enda droppe av stjärndaggsessens omvandlar denna sorbet till ett extraordinärt mellanmål.",
     "Price": 1250,
     "ItemTags": [
       "Sweet",
@@ -253,8 +253,8 @@
   {
     "ID": 23,
     "Name": "Rock Candy",
-    "DisplayName": "Rock Candy",
-    "Description": "Flavored sugar crystals attached to a convenient stick.",
+    "DisplayName": "Sockerkristaller",
+    "Description": "Smaksatta kristaller av socker som har fästs på en behändig pinne.",
     "Price": 90,
     "ItemTags": [
       "Sweet",
