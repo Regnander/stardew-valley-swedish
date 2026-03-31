@@ -13,7 +13,7 @@
   "12": "ItemHarvest/Smältning/Nu när du har byggt en masugn kan du smälta lite metall. Enligt Clints instruktioner bör masugnen producera en koppartacka om du placerar 5 kopparmalm och 1 kolbit i den./Använd din masugn för att smälta en koppartacka./334 1/-1/0/-1/true",
   "13": "Basic/Mot stranden/Någon som heter Willy vill träffas på stranden söder om staden. Han påstår sig ha någonting till dig./Gå till stranden söder om staden före kl. 17:00./-1/-1/0/-1/true",
   "14": "Basic/Utforska gruvan/I bergen norr om staden finns det en gammal gruva som kan ha värdefulla mineraler, men Marlon antydde att det kan vara farligt./Nå våning 5 i gruvorna./17/17/0/-1/false",
-  "15": "Monster/Initiering/Om du kan döda 10 slem har du förtjänat din plats i äventyrssällskapet./0 av 10 dödade slem./Green_Slime 10/16/0/-1/false",
+  "15": "Monster/Initiering/Om du kan dräpa 10 slem har du förtjänat din plats i äventyrssällskapet./0 av 10 dräpta slem./Green_Slime 10/16/0/-1/false",
   "16": "Location/Initiering/Du lyckades besegra 10 slem och kan nu besöka äventyrssällskapet./Besök äventyrssällskapet./AdventureGuild/-1/0/-1/false",
   "17": "Basic/Djupare ned i gruvan/Det verkar som att gruvhissen fortfarande fungerar. Med den kan du snabbt återgå till alla hissdörrar som du har upptäckt. Det är kanske dags att utforska djupare./Nå våning 40 i gruvorna./18/18/0/-1/false",
   "18": "Basic/Mot botten?/Hittills finns det inga tecken på botten. Hur långt ned når den?/Nå botten på gruvan./-1/-1/0/-1/false",
