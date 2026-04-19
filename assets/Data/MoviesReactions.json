@@ -12,17 +12,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Watching a movie with mom sure brings me back!"
+            "Text": "Att se på bio med mamma väcker verkligen minnen!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"(Pam and Penny are watching intently!)\"",
+            "Script": "/message \"(Pam och Penny tittar intensivt!)\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It's great to be able to do things as a family again!"
+            "Text": "Vad fantastiskt att kunna göra saker tillsammans som familj igen!"
           }
         },
         "ID": "reaction_0"
@@ -35,17 +35,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm looking forward to this! Jas and Vincent have been talking about it non-stop."
+            "Text": "Jag ser fram emot detta! Jas och Vincent har pratat om den här hela tiden."
           },
           "DuringMovie": {
             "ResponsePoint": "sprout_leave",
-            "Script": "/shake Penny 3000/pause 500/message \"Penny seems to be holding back some tears...\"",
-            "Text": "Wow, it must be really hard leaving his family like that...$s"
+            "Script": "/shake Penny 3000/pause 500/message \"Penny verkar hålla tillbaka några tårar...\"",
+            "Text": "Oj, det måste vara riktigt svårt för honom att lämna sin familj så där...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Thanks for taking me to this, I can't wait to tell the kids how good it was!"
+            "Text": "Tack för att du bjöd med mig på det här. Jag längtar efter att berätta för barnen hur bra den var!"
           }
         },
         "ID": "reaction_1"
@@ -65,17 +65,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, '{0}'! This looks wholesome and fun!"
+            "Text": "Åh, \"{0}\"! Det ser både sunt och roligt ut!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"(Penny is smiling)\"",
+            "Script": "/message \"(Penny har ett leende på läpparna\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I should totally bring the kids to see this sometime!"
+            "Text": "Jag borde ta med mig barnen för att se den här någon gång!"
           }
         },
         "ID": "reaction_3"
@@ -88,17 +88,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm excited, I'm in the mood for a good laugh!"
+            "Text": "Jag är förväntansfull och på humör för ett gott skratt!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Did they just...?! Hahahaha!"
+            "Text": "Gjorde de precis vad jag tror de gjorde...?! Hahahaha!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Whew, I've got a cramp from all that laughing...!"
+            "Text": "*pust* Jag fick kramp från allt skrattande...!"
           }
         },
         "ID": "reaction_4"
@@ -111,17 +111,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm a little nervous... I don't usually watch scary movies.$s"
+            "Text": "Jag känner mig lite nervös... Jag tittar vanligtvis inte på läskiga filmer.$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/shake Penny 3000/pause 500/emote Penny 28",
-            "Text": "I can't look...$s"
+            "Text": "Jag kan inte titta...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I hope I don't have nightmares tonight!$s"
+            "Text": "Jag hoppas att jag inte får mardrömmar i natt!$s"
           }
         },
         "ID": "reaction_5"
@@ -134,13 +134,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oooh, I've been dying to see this!"
+            "Text": "Ååååh, jag har längat efter att se den här!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Amazing! I hope they make another one!"
+            "Text": "Fantastiskt! Jag hoppas att de gör en till!"
           }
         },
         "ID": "reaction_6"
@@ -153,13 +153,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, I've heard some good things about this one!"
+            "Text": "Åh! Jag har hört positiva saker om den här!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great! Thanks for seeing this with me!"
+            "Text": "Den var fantastiskt! Tack för att du tittade tillsammans med mig!"
           }
         },
         "ID": "reaction_7"
@@ -172,7 +172,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I can't say I would've picked this one myself, but I'll try to keep an open mind..."
+            "Text": "Jag hade nog inte valt den här själv, men jag ska ge den ett försök..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -182,7 +182,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Sorry if I ruined the movie for you, it just wasn't really my favorite..."
+            "Text": "Förlåt om jag förstörde filmen åt dig. Det var inte en av mina favoriter..."
           }
         },
         "ID": "reaction_8"
@@ -195,7 +195,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ooh, '{0}'! I saw this one with {2}!"
+            "Text": "Ååh, \"{0}\"! Jag såg den här tillsammans med {2}!"
           },
           "DuringMovie": null,
           "AfterMovie": null
@@ -210,7 +210,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I saw this with {2}, it was pretty good!"
+            "Text": "Jag såg den här tillsammans med {2}. Den var ganska bra!"
           },
           "DuringMovie": null,
           "AfterMovie": null
@@ -225,7 +225,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmm, I think {2} took me to see this..."
+            "Text": "Hmm, jag tror att {2} tog med mig för att se den här..."
           },
           "DuringMovie": null,
           "AfterMovie": null
@@ -245,13 +245,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, kid. Thanks for inviting me."
+            "Text": "Hej, pysen. Tack för din inbjudan."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh, that wasn't too bad!"
+            "Text": "Hehe, den var inte så illa!"
           }
         },
         "ID": "reaction_0"
@@ -269,17 +269,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Psst... Hey, it's me, Krobus. Could you recognize me?$8#$b#If anyone approaches us, you do the talking, okay?$8"
+            "Text": "Psst... Hej! Det är jag, Krobus. Känner du igen mig?$8#$b#Om någon kommer fram till oss får du sköta snacket.$8"
           },
           "DuringMovie": {
             "ResponsePoint": "mysterium_shadow",
-            "Script": "/message \"Krobus is stewing...\"",
-            "Text": "Not all shadow people are like that!$8"
+            "Script": "/message \"Krobus våndas...\"",
+            "Text": "Allt skuggfolk beter sig inte så där!$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm not used to wearing clothes... It's very uncomfortable!$8"
+            "Text": "Jag är inte van med att bära kläder... Det är väldigt obekvämt!$8"
           }
         },
         "ID": "reaction_0"
@@ -292,13 +292,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*ahem*... Hello! I am very excited to be at the visual entertainment center and to consume the popped corn... just like you!$8#$b#*whisper*... how am I doing?$8"
+            "Text": "*host*... Hej! Jag är mycket förväntansfull över att besöka centret för visuell underhållning och konsumera de poppade majskornen... precis som du!$8#$b#*viskar*... Hur går det för mig?$8"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "So, your species enjoys staring at flickering lights for hours on end? Very interesting...$8"
+            "Text": "Så din art gillar att stirra på flimrande ljus i timtal? Mycket intressant...$8"
           }
         },
         "ID": "reaction_1"
@@ -316,17 +316,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I sense an arcane power permeating this building tonight..."
+            "Text": "Jag förnimmer en magisk kraft som genomsyrar den här byggnaden i kväll..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"There's a twinkle in Wizard's eye...\"",
-            "Text": "And to think... the layman has no idea that this is all raw, real footage!"
+            "Script": "/message \"Trollkarlens ögon glimrar...\"",
+            "Text": "Tänka sig... att lekmän inte har en aning om att de här filmsekvenser är äkta!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "For those aware of the esoteric mysteries, that had deep significance..."
+            "Text": "För de som är införstådda i de esoteriska mysterierna hade den här en djup betydelse..."
           }
         },
         "ID": "reaction_1"
@@ -345,7 +345,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "You pulled me from my studies for *this*?"
+            "Text": "Släpade du hit mig från mina studier för *det här*?"
           }
         },
         "ID": "reaction_0"
@@ -384,13 +384,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "The newspaper gave this one '5 stars', so I'm willing to give it a go."
+            "Text": "Tidningen gav den här \"5 stjärnorna\", så jag är villig att prova den."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh! That was actually pretty good! Thanks for inviting me."
+            "Text": "Hehe! Den var faktiskt ganska bra! Tack för att du bjöd hit mig."
           }
         },
         "ID": "reaction_3"
@@ -403,13 +403,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmph... Theaters aren't like they used to be... But the picture might be good enough."
+            "Text": "*fnys*... Biograferna är inte vad de brukade vara... men filmen kanske duger."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh. Compared to most movies these days, it wasn't bad.$h"
+            "Text": "Hehe. Jämfört med de flesta av dagens filmer var den inte så dålig.$h"
           }
         },
         "ID": "reaction_4"
@@ -422,13 +422,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmph... I'll take a nap during this one."
+            "Text": "*fnys*... Den här tänker jag sova till."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Shameful! The trash they pass for 'movies' these days... "
+            "Text": "Skamligt! Vilket skräp som kallas \"film\" i dag..."
           }
         },
         "ID": "reaction_5"
@@ -460,13 +460,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This one's supposed to be pretty funny, I'm looking forward to it."
+            "Text": "Den här ska vara ganska rolig, så jag ser fram emot detta."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! I really liked it. But I dunno if I could survive on gluten pucks like that."
+            "Text": "Haha! Jag gillade verkligen den här, men tvivlar på att jag skulle kunna överleva på glutenpuckar som den där."
           }
         },
         "ID": "reaction_2"
@@ -479,13 +479,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I've been wanting to see this one for a while. Thanks for the ticket, @!"
+            "Text": "Jag har velat titta på den här ett tag. Tack för biljetten, @!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great! My legs are still tingling with the excitement."
+            "Text": "Den var fantastiskt! Det pirrar fortfarande i benen av spänning."
           }
         },
         "ID": "reaction_3"
@@ -498,13 +498,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, I'm pretty excited to see a movie! I'm gonna need a snack, though..."
+            "Text": "Jag känner mig ganska peppad på att titta på film! Jag kommer dock att behöva ett mellanmål..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, that was pretty good. Thanks for inviting me to this, @."
+            "Text": "Den var ganska bra. Tack för att du bjöd in mig till detta, @."
           }
         },
         "ID": "reaction_4"
@@ -517,13 +517,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This movie seems kind of nerdy, but I'll give it a shot."
+            "Text": "Den här filmen verkar lite nördig, men jag ska ge den en chans."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I can't tell if that was boring, or if I'm just not smart enough to understand it...$s"
+            "Text": "Jag vet inte om den var tråkig eller ifall jag inte är smart nog för att förstå den...$s"
           }
         },
         "ID": "reaction_5"
@@ -555,13 +555,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Before this theater came to town, I hadn't seen a movie in twenty years!$h"
+            "Text": "Innan den här biografen kom till staden hade jag inte sett en film på tjugo år!$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I loved it... now you know why '{0}' is considered a classic."
+            "Text": "Jag älskade den... Nu vet du varför \"{0}\" anses vara en klassiker."
           }
         },
         "ID": "reaction_2"
@@ -574,13 +574,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It's very kind of you to invite an old lady to the movies.$h"
+            "Text": "Det var väldigt snällt av dig att bjuda en gammal dam på bio.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm glad they're still making decent movies... I had a lot of fun!"
+            "Text": "Jag är glad att man fortfarande gör anständiga filmer... Jag hade riktigt roligt!"
           }
         },
         "ID": "reaction_3"
@@ -593,17 +593,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I've never been a fan of scary movies, but I'll try to keep an open mind."
+            "Text": "Jag har aldrig varit gillat läskiga filmer, men ska försöka hålla ett öppet sinne."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Evelyn 3000/pause 500/message \"Evelyn is covering her eyes.\"",
-            "Text": "Is it over yet?$s"
+            "Script": "/shake Evelyn 3000/pause 500/message \"Evelyn håller för ögonen.\"",
+            "Text": "Är det slut snart?$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I had to close my eyes during most of it...$s"
+            "Text": "Jag var tvungen att stänga ögonen under det mesta...$s"
           }
         },
         "ID": "reaction_4"
@@ -628,13 +628,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I grew up watching old sci-fi flicks, so I'm interested to see a modern take on the genre."
+            "Text": "Jag tittade på gamla science fiction-filmer när jag var liten, så jag är intresserad av att se genren i modern tappning."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! It wasn't what I expected, but I ended up really liking it! I really identified with Wumbus.$h"
+            "Text": "Haha! Den var inte som jag förväntade mig, men jag gillade verkligen den i slutändan! Jag identifierade mig verkligen med Wumbus.$h"
           }
         },
         "ID": "reaction_1"
@@ -647,13 +647,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm usually working all the time, so it's really nice to do something like this."
+            "Text": "I vanliga fall jobbar jag hela tiden, så det är riktigt trevligt att få göra någonting sådant."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Not bad! I wonder if they have any merchandise I could stock..."
+            "Text": "Inte illa! Jag undrar om de har några marknadsföringsvaror som jag skulle kunna sälja..."
           }
         },
         "ID": "reaction_2"
@@ -685,17 +685,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I can't believe they made a Prairie King movie... I hope it's good!"
+            "Text": "Jag fattar inte att de gjorde en film om Präiriekungen... Jag hoppas att den är bra!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Listen... it's got that old familiar music.$h"
+            "Text": "Lyssna... Den har den gamla bekanta musiken.$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Well the acting was awful, but I still had a great time.$h"
+            "Text": "Skådespelet var hemskt, men jag hade fortfarande roligt.$h"
           }
         },
         "ID": "reaction_2"
@@ -708,17 +708,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm excited to 'explore our vibrant world'... aren't you?$h"
+            "Text": "Jag ser fram emot att \"utforska vår livliga värld\"... Är inte du också det?$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I didn't know that!"
+            "Text": "Det visste jag inte!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was really interesting. I liked the raccoons the best... they're so cute!$h"
+            "Text": "Det var riktigt intressant. Tvättbjörnarna var min favorit... De är så söta!$h"
           }
         },
         "ID": "reaction_3"
@@ -731,17 +731,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I love horror movies... I hope it's scary!$h"
+            "Text": "Jag älskar skräckfilmer... Jag hoppas att den är läskig!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Abigail 3000/pause 500/message \"Abigail is giggling!\"",
-            "Text": "Haha! It's not scary, but I love it.$h"
+            "Script": "/shake Abigail 3000/pause 500/message \"Abigail fnissar!\"",
+            "Text": "Haha! Den var inte läskig, men jag älskade den.$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was pretty campy, but I liked it.$h"
+            "Text": "Den var ganska klyschig, men jag gillade den.$h"
           }
         },
         "ID": "reaction_4"
@@ -754,13 +754,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey! Thanks for inviting me, I love going to the movies.$h"
+            "Text": "Hallå! Tack för din inbjudan. Jag älskar att gå på bio.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was interesting... I wonder what I would've done in the same situation?"
+            "Text": "Den var intressant... Jag undrar vad jag skulle ha gjort i samma situation?"
           }
         },
         "ID": "reaction_5"
@@ -773,17 +773,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "From seeing the trailer, this one looks like a real snoozefest...$6"
+            "Text": "Utifrån trailern verkar den här vara ett riktigt sömnpiller...$6"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wake me up if anything interesting happens.$6"
+            "Text": "Väck mig om någonting intressant händer.$6"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*yawn*... that was pretty boring, wasn't it?$6"
+            "Text": "*gäsp*... Visst var den ganska tråkig?$6"
           }
         },
         "ID": "reaction_6"
@@ -815,13 +815,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I've always loved movies about the wild west, so I'm really excited to see this!"
+            "Text": "Jag har alltid älskat filmer om vilda västern, så jag ser fram emot att få titta på den här!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great! It really felt authentic, with the costumes and everything."
+            "Text": "Den var fantastiskt! Den kändes riktigt äkta med kostymer och allt."
           }
         },
         "ID": "reaction_2"
@@ -834,17 +834,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This movie looks so cute, I was really hoping someone would invite me!"
+            "Text": "Den här filmen ser så söt ut, jag hoppades verkligen att någon skulle bjuda in mig!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I hope the poor little guy will be okay...$s"
+            "Text": "Jag hoppas att den lilla stackaren kommer att klara sig...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was adorable. Thanks so much for inviting me to this!"
+            "Text": "Den var bedårande. Tack så mycket för att du bjöd in mig till detta!"
           }
         },
         "ID": "reaction_3"
@@ -857,13 +857,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "'{0}'... I have no idea what this is about! I hope it's not violent."
+            "Text": "\"{0}\"... Jag har ingen aning om vad den här handlar om! Jag hoppas att den inte är våldsam."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That wasn't bad! I'll have to ask Abigail about it when I'm home, I'm sure she's seen it.$h"
+            "Text": "Den var inte så illa! Jag måste fråga Abigail om den när jag kommer hem. Hon har säkert sett den.$h"
           }
         },
         "ID": "reaction_4"
@@ -876,13 +876,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I have a feeling this one's going to be a let-down... But I'm still interested to give it a try."
+            "Text": "Jag känner på mig att den här kommer att vara en besvikelse... men jag vill ändå ge den en chans."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was silly... I bet Pierre would like it.$s"
+            "Text": "Den var fånig... Jag slår vad om att Pierre skulle vilja se den här.$s"
           }
         },
         "ID": "reaction_5"
@@ -900,17 +900,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm nervous about this one... *gulp*"
+            "Text": "Jag känner mig nervös inför den här... *gulp*"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Harvey 3000/pause 500/message \"Harvey is shaking!\"",
-            "Text": "I'm scared!$8"
+            "Script": "/shake Harvey 3000/pause 500/message \"Harvey skakar!\"",
+            "Text": "Jag är rädd!$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I have a fear of heights, so those soaring aerial shots really got to me... Still, I had a good time overall.$h"
+            "Text": "Jag är höjdrädd, så flygscenerna tog verkligen på krafterna... Men på det stora hela var det ändå trevligt.$h"
           }
         },
         "ID": "reaction_3"
@@ -944,17 +944,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I read a glowing review of this movie in the Zuzu City Times..."
+            "Text": "Jag läste en strålande recension av den här filmen i Zuzu City Times..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It really makes you think, doesn't it?"
+            "Text": "Man får verkligen en tankeställare, eller hur?"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was outstanding! I'm really glad that you brought me out for this, @.$h"
+            "Text": "Den var enastående! Jag är verkligen glad att du tog med mig för den här, @.$h"
           }
         },
         "ID": "reaction_4"
@@ -967,13 +967,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I don't watch a lot of movies, but this one's been well-received, right?"
+            "Text": "Jag tittar inte på film så ofta, men visst har den här fått ett bra mottagande?"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was interesting! I'm going to be thinking about {0} one for a while."
+            "Text": "Den var intressant! Jag kommer att tänka på {0} ett tag framöver."
           }
         },
         "ID": "reaction_5"
@@ -986,17 +986,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This movie seems a little intense for me...$s"
+            "Text": "Den här filmen verkar vara lite intensiv för mig...$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Harvey 3000/pause 500/message \"Harvey's blood pressure is skyrocketing!\"",
-            "Text": "I feel faint...$8"
+            "Script": "/shake Harvey 3000/pause 500/message \"Harveys blodtryck stiger i taket!\"",
+            "Text": "Jag känner mig svimfärdig...$8"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "My body feels inflamed after that movie...$s"
+            "Text": "Hela kroppen känns inflammerad efter den där filmen...$s"
           }
         },
         "ID": "reaction_6"
@@ -1014,13 +1014,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I saw a commercial for this on the TV. It looks really funny!"
+            "Text": "Jag såg en tv-reklam om den här. Den ser riktigt rolig ut!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "As an amateur connoisseur, the weird obsession with gluten-based food was hilarious.$h"
+            "Text": "Som en amatörkännare fann jag den konstiga besattheten av glutenbaserad mat komisk.$h"
           }
         },
         "ID": "reaction_0"
@@ -1033,13 +1033,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It doesn't feel like the holidays until you've seen '{0}'!"
+            "Text": "Högtiden känns inte fulländad förrän man har sett \"{0}\"!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was heartwarming... and somehow they make that fabled fruit seem so delicious. I'd love to taste it one day."
+            "Text": "Den där var hjärtvärmande... och på något sätt fick de den där sägenomspunna frukten att verka så utsökt. Jag skulle gärna vilja smaka på den en dag."
           }
         },
         "ID": "reaction_1"
@@ -1052,13 +1052,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "They say this movie is 'unconventional'... does that mean it's bad?$s"
+            "Text": "Det sägs att den här filmen är \"okonventionell\"... Betyder det att den är dålig?$s"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "What was the point of that one? I don't get it. Maybe I'm too old.$s"
+            "Text": "Vad var poängen med den där? Jag fattar ingenting. Jag kanske är för gammal.$s"
           }
         },
         "ID": "reaction_3"
@@ -1071,13 +1071,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*sniff* *sniff* ... I smell something delicious..."
+            "Text": "*sniff* *sniff*... Jag känner doften av någonting läckert..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Not bad at all. I'm really glad I came!"
+            "Text": "Inte illa alls. Jag är verkligen glad att jag kom!"
           }
         },
         "ID": "reaction_2"
@@ -1095,17 +1095,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I watched cowboy movies when I was a kid... I'm glad to see the art is still alive!"
+            "Text": "Som barn tittade jag på cowboyfilmer... Jag är glad att konsten fortfarande är vid liv!"
           },
           "DuringMovie": {
             "ResponsePoint": "PK_villain",
-            "Script": "/message \"Mayor Lewis seems deep in thought...\"",
-            "Text": "(I wonder what kind of moustache wax he uses?)"
+            "Script": "/message \"Borgmästare Lewis verkar vara försunken i tankar...\"",
+            "Text": "(Jag undrar vilket sorts mustaschvax han använder.)"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh, that was great! Really brought me back...$h"
+            "Text": "Hehe, den var toppen! Den väckte verkligen gamla minnen...$h"
           }
         },
         "ID": "reaction_3"
@@ -1118,13 +1118,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "The governor himself recommended this movie to me!"
+            "Text": "Självaste guvernören rekommenderade den här filmen till mig!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Fantastic! They really made Stardew Valley look beautiful, didn't they? If only they had featured Pelican Town itself...$h"
+            "Text": "Fantastiskt! Visst fick de verkligen Stjärndaggsdalen att se vacker ut? Bara om de hade presenterat själva Pelikanstaden...$h"
           }
         },
         "ID": "reaction_4"
@@ -1158,13 +1158,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "As mayor, I need to know what kinds of movies are being shown in our community. We have the tender minds of the next generation to worry about!"
+            "Text": "Som borgmästare måste jag veta vilka slags filmer som visas i vårt samhälle. Vi har nästa generations känsliga sinnen att tänka på!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! That wasn't bad at all... I'd say this one's 'Mayor Approved'.$h"
+            "Text": "Haha! Den där var inte så pjåkig... Man skulle kunna säga att den är \"godkänd av självaste borgmästaren\".$h"
           }
         },
         "ID": "reaction_5"
@@ -1177,13 +1177,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmm... I guess it will be interesting to see what the young people are watching these days..."
+            "Text": "Hmm... Det blir nog intressant att se vad ungdomarna tittar på nuförtiden..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Huh... I wonder if the messages in this movie are good for our community?"
+            "Text": "Hmm... Jag undrar om filmens budskap är bra för vårt samhälle."
           }
         },
         "ID": "reaction_6"
@@ -1208,13 +1208,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I saw this movie once, a long time ago. It's very romantic!"
+            "Text": "Jag såg den här filmen för länge sedan. Den är riktig romantisk!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was lovely... The theme of the movie really resonated with me. Thanks for bringing me!"
+            "Text": "Den var härligt... Filmens tema resonerade verkligen med mig. Tack för att du bjöd hit mig!"
           }
         },
         "ID": "reaction_1"
@@ -1227,13 +1227,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I hope the seats are plush, I've been on my feet all day!"
+            "Text": "Jag hoppas att sätena är mjuka för jag har stått hela dagen!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm not much of a movie buff... but I had a good time! Thanks, @."
+            "Text": "Jag är ingen filmentusiast... men den var roligt! Tack, @."
           }
         },
         "ID": "reaction_2"
@@ -1251,17 +1251,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh man, I'm so excited for this! I heard it has a great soundtrack."
+            "Text": "Åh, jag ser fram emot den här! Jag har hört att den har ett grymt soundtrack."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/playSound reward/emote Sam 32/message Sam \"Sam can't contain his laughter!\"",
-            "Text": "This movie's hilarious! How do they come up with this stuff?$h"
+            "Script": "/playSound reward/emote Sam 32/message Sam \"Sam kan inte hålla sig för skratt!\"",
+            "Text": "Den här filmen är jätterolig! Hur kommer de på allt det här?$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*psst*... Don't tell anyone, but I wear the same type of socks as Wumbus."
+            "Text": "*psst*... Berätta inte för någon, men jag bär samma slags strumpor som Wumbus."
           }
         },
         "ID": "reaction_1"
@@ -1281,13 +1281,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "So you like scary movies, huh? I'm a little surprised!"
+            "Text": "Gillar du läskiga filmer? Jag är lite förvånad!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was pretty good! I'm usually not scared by movies, but that one got to me a little... I don't think I'll take Vincent to see this."
+            "Text": "Det var ganska bra! Jag blir vanligtvis inte rädd av filmer, men den gjorde mig like skraj... Jag tror inte att Vincent ska få titta på den här."
           }
         },
         "ID": "reaction_2"
@@ -1300,13 +1300,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, thanks for inviting me, @... It's really great that we have a movie theater in town now."
+            "Text": "Tack för att du bjöd in mig, @... Det är riktigt toppen att vi har en biograf i staden."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That wasn't bad! I might have to take Vincent to see this."
+            "Text": "Den var inte så dålig! Jag kanske måste låta Vincent få titta på den här."
           }
         },
         "ID": "reaction_3"
@@ -1319,17 +1319,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It's an old movie with lots of talking, right? Hmm... $s"
+            "Text": "Det är en gammal film med massor av prat, eller hur? Hmm...$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message Sam \"Sam is playing his handheld video game system.\"",
-            "Text": "Huh? Oh! Yeah... The movie's... interesting...$10"
+            "Script": "/message Sam \"Sam spelar på sitt handhållna spelkonsol.\"",
+            "Text": "Va? Åh! Jo... filmen är... intressant...$10"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Yeah... Uh... That one character was interesting... And, um... heh...$10"
+            "Text": "Jo... öh... Den där karaktären var intressant... och, öh... Hehe...$10"
           }
         },
         "ID": "reaction_4"
@@ -1375,17 +1375,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm so excited! My mom said I can have candy, too!$h"
+            "Text": "Jag ser fram emot detta! Mamma sade också att jag fick äta godis!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/jump Vincent/pause 400/playSound reward/message \"Vincent is having a blast!\"",
+            "Script": "/jump Vincent/pause 400/playSound reward/message \"Vincent har jättekul!\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was so fun! I wanna go see it again!$h"
+            "Text": "Den var jätterolig! Jag vill se den igen!$h"
           }
         },
         "ID": "reaction_4"
@@ -1398,17 +1398,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "B... But... This movie is for grown-ups, isn't it?$s"
+            "Text": "M... men... den här filmen är väl för vuxna?$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"Vincent is fidgeting in his seat.\"",
+            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"Vincent kan inte sitta stilla.\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was boring... I didn't understand anything.$s"
+            "Text": "Den var tråkig... Jag förstod ingenting.$s"
           }
         },
         "ID": "reaction_5"
@@ -1433,17 +1433,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Thanks for inviting me to the movies, @. It's not easy to adjust back into the civilian lifestyle, but you've helped me feel really welcome."
+            "Text": "Tack för att du bjöd mig på bio, @. Det är inte enkelt att ställa om till det civila livet igen, men du har verkligen fått mig att känna mig välkommen."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Kent 32/message \"Kent has a rare smile on his face.\"",
-            "Text": "This is great... it reminds me of simpler times...$h"
+            "Script": "/emote Kent 32/message \"Kent har ett sällsynt leende på läpparna.\"",
+            "Text": "Det här är fantastiskt... Den påminner mig om enklare tider...$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was fun. When you're engrossed in a movie, all your cares and worries disappear."
+            "Text": "Den var rolig. När man låter sig uppslukas av en film försvinner ens oro och bekymmer."
           }
         },
         "ID": "reaction_1"
@@ -1456,17 +1456,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm not sure about this movie..."
+            "Text": "Jag vet inte riktigt vad jag tycker om den här filmen..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Kent 28/message \"Kent is breaking out into a cold sweat...\"",
+            "Script": "/emote Kent 28/message \"Kent börjar kallsvettas...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was challenging for me. Still, I appreciate you inviting me to this."
+            "Text": "Den här var utmanande, men jag uppskattar ändå att du bjöd med mig."
           }
         },
         "ID": "reaction_2"
@@ -1484,17 +1484,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This movie's supposed to be a romance, right? *sigh*$s"
+            "Text": "Den här är väl en romantisk film? *suck*$s"
           },
           "DuringMovie": {
             "ResponsePoint": "guyEnters",
-            "Script": "/emote Clint 12/message \"Clint is scowling.\"",
-            "Text": "Why would she like THAT guy? Totally unrealistic if you ask me...$3"
+            "Script": "/emote Clint 12/message \"Clint ser vresig ut.\"",
+            "Text": "Varför skulle hon gilla den DÄR killen? Helt orealistiskt om du frågar mig...$3"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That movie was depressing...$s"
+            "Text": "Den där filmen var deprimerande...$s"
           }
         },
         "ID": "reaction_1"
@@ -1507,17 +1507,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I guess it's 'guys night', huh? Does that mean I have to buy my own snacks?^Oh... A... Are we on a date, then?$4"
+            "Text": "Ska vi en killkväll? Betyder detta att jag måste köpa mitt eget snacks?^Åh... Är... är det här en dejt?$4"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Clint is taking sips from an unmarked flask.\"",
-            "Text": "It's just... *hic*... Joja Cola.$h^*whispers*...If you're, um... tired... you can put your head on my... my shoulder. Heh... or not!$4"
+            "Script": "/message \"Clint tar små klunkar från en etikettlös plunta.\"",
+            "Text": "Det är bara... *hick*... Joja-cola.$h^*viskande*... Om du är, öh... trött... så kan du lägga ditt huvud mot min... axel. Hehe... eller inte!$4"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey... that was kind of fun... right?$h"
+            "Text": "Vet du vad? Den var rolig... eller hur?$h"
           }
         },
         "ID": "reaction_0"
@@ -1549,13 +1549,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I ate a handful of nuts to prepare for this movie... brain food!"
+            "Text": "Jag åt en handfull nötter för att ladda upp inför filmen... Det är nyttigt för hjärnan!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I feel a little bit smarter than I was before... don't you?"
+            "Text": "Jag känner mig lite smartare än vad jag var tidigare... Gör inte du det?"
           }
         },
         "ID": "reaction_3"
@@ -1568,13 +1568,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "When I saw the movie poster for this one, I felt a very positive sensation in the top of my head.$h"
+            "Text": "När jag såg filmaffischen för den här kände jag en mycket positiv förnimmelse i hjässan.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That movie felt very spiritual, in a way... don't you agree? I loved it!$h"
+            "Text": "Den filmen kändes väldigt andlig på ett sätt... Håller du inte med? Jag älskade den!$h"
           }
         },
         "ID": "reaction_2"
@@ -1587,13 +1587,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm happy to see a movie with you! I tend to get totally lost in the screen."
+            "Text": "Jag är glad att titta på film med dig! Jag tenderar förlora mig själv i filmduken."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I feel positive after that one... that means it was a good movie!$h"
+            "Text": "Jag känner mig positiv efter den där... Det betyder att filmen var bra!$h"
           }
         },
         "ID": "reaction_4"
@@ -1606,17 +1606,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I usually go to more positive movies, so this will be interesting."
+            "Text": "Jag brukar titta på mer positiva filmer, så det kommer att bli intressant."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Emily is whispering to herself...\"",
-            "Text": "Yoba, please protect me from the dark energy of this movie.$7"
+            "Script": "/message \"Emily viskar för sig själv...\"",
+            "Text": "Yoba, snälla skydda mig från filmens mörka energi.$7"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "My energy levels are low after that one...$3"
+            "Text": "Mina energinivåer är låga efter den där...$3"
           }
         },
         "ID": "reaction_5"
@@ -1634,13 +1634,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mmm... It's nice and warm in here. Winter is my favorite time to go to the movies.$h"
+            "Text": "Mmm... Det är varmt och skönt här inne. Vintern är min favoritårstid för att gå på bio.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was very romantic."
+            "Text": "Den där var riktigt romantisk."
           }
         },
         "ID": "reaction_3"
@@ -1653,13 +1653,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mmm... It's nice and warm in here. Winter is my favorite time to go to the movies.$h"
+            "Text": "Mmm... Det är varmt och skönt här inne. Vintern är min favoritårstid för att gå på bio.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm glad there was a good ending!"
+            "Text": "Jag är glad att den hade ett gott slut!"
           }
         },
         "ID": "reaction_4"
@@ -1693,13 +1693,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, is this one of those 'fantasy' movies?$7"
+            "Text": "Åh, är den här en \"fantasy\"-film?$7"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*yawn*... What? Oh... what was that movie about, again?$7"
+            "Text": "*gäsp*... Vad? Åh... Vad handlade filmen om nu igen?$7"
           }
         },
         "ID": "reaction_5"
@@ -1712,13 +1712,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Everyone's talking about this movie, so I've been wanting to see it."
+            "Text": "Alla pratar om den här filmen, så jag har velat titta på den."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That last scene... what did they mean by that?"
+            "Text": "Vad var grejen med slutscenen?"
           }
         },
         "ID": "reaction_6"
@@ -1736,17 +1736,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, @! I'm looking forward to this one... I hope we learn a lot!$h"
+            "Text": "Hallå, @! Jag ser fram emot den här... Hoppas att vi lär oss mycket!$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Maru 32/playSound reward/message \"Maru's taking notes!\"",
-            "Text": "Ah, I see... that's very interesting!"
+            "Script": "/emote Maru 32/playSound reward/message \"Maru skriver anteckningar!\"",
+            "Text": "Åh, jag förstår... mycket intressant!"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was really interesting! I had no idea that so much life could be found in the big city."
+            "Text": "Det var riktigt intressant! Jag hade ingen aning om att det fanns så mycket liv i storstaden."
           }
         },
         "ID": "reaction_2"
@@ -1759,13 +1759,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It's a sci-fi movie, right? One of the things I like about sci-fi is seeing all the weird technologies they come up with."
+            "Text": "Det är väl en science fiction-film? En sak jag gillar med science fiction är all konstig teknologi de hittar på."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Well, I've never seen anything like *that* through my telescope... but it was really great!$h"
+            "Text": "Jag har aldrig sett någonting som liknar *det där* genom mitt teleskop... men den var riktigt bra!$h"
           }
         },
         "ID": "reaction_3"
@@ -1778,13 +1778,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I really like going to the theater, even if the movie's bad!$h"
+            "Text": "Jag gillar verkligen att gå på bio även om filmen är dålig!$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was an interesting choice, for the final scene. What do you think they meant by that?"
+            "Text": "Det var ett intressant val för den slutscenen. Vad tror du att de ville ha sagt med den?"
           }
         },
         "ID": "reaction_4"
@@ -1823,17 +1823,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey. I heard this movie is pretty grim... I'm looking forward to it.$h"
+            "Text": "Tjena. Jag hörde att den här filmen är ganska dyster ... Jag ser fram emot den.$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Sebastian 32/message \"Sebastian has a grin on his face.\"",
-            "Text": "This cinematography is next-level."
+            "Script": "/emote Sebastian 32/message \"Sebastian sitter och flinar.\"",
+            "Text": "Filmtekniken är på en helt annan nivå."
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Best movie I've seen in a while... I wonder how they did some of those special effects?$h"
+            "Text": "Bästa filmen jag har sett på länge... Undrar hur de gjorde några av de där specialeffekterna?$h"
           }
         },
         "ID": "reaction_3"
@@ -1846,13 +1846,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*shrugs*... The movie poster looked pretty cool, so I'm in."
+            "Text": "*rycker på axlarna*... Filmaffischen såg ganska häftig ut, så jag är med på det."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It wasn't the best ever, but I had a pretty good time... thanks for inviting me."
+            "Text": "Den var kanske inte den bästa jag sett, men jag hade ganska trevligt... Tack för att du bjöd med mig."
           }
         },
         "ID": "reaction_4"
@@ -1865,13 +1865,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I hope it's short..."
+            "Text": "Jag hoppas att det är kort..."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It's probably a fine movie for the target audience, but it's just not for me."
+            "Text": "Den är säkert en helt okej film för rätt målgrupp, men den är inte för mig."
           }
         },
         "ID": "reaction_5"
@@ -1896,13 +1896,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I've been feeling kind of dull lately, so an action-packed movie is exactly what I need."
+            "Text": "Jag har känt mig lite seg på sistone, så en actionfylld film är precis vad jag behöver."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm all fired up, now! That was great.$h"
+            "Text": "Nu känner mig full av energi! Den var fantastisk.$h"
           }
         },
         "ID": "reaction_1"
@@ -1915,13 +1915,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm not sure what this movie's about, but I don't really care! It's just good to get out of the house."
+            "Text": "Jag vet inte vad filmen handlar om, men det spelar ingen roll! Det är bara skönt att komma ut ur huset ett tag."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was a lot of fun, @. I'm glad we did this."
+            "Text": "Det var jätteroligt, @. Jag är glad att vi gjorde det här."
           }
         },
         "ID": "reaction_2"
@@ -1939,17 +1939,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "A short jaunt in the snow really gets the blood flowing."
+            "Text": "En kort utflykt i snön får verkligen igång blodcirkulationen."
           },
           "DuringMovie": {
             "ResponsePoint": "zuzucityexpress_mind_heart",
-            "Script": "/message \"Demetrius is furrowing his brow.\"",
-            "Text": "Longings of the heart...? Oh! You mean 'elevated levels of oxytocin in the limbic system'."
+            "Script": "/message \"Demetrius rynkar pannan.\"",
+            "Text": "Längtande hjärta...? Åh! De menar \"förhöjda nivåer av oxytocin i det limbiska systemet\"."
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "The art of film has come a long way since those times, hasn't it?"
+            "Text": "Filmkonsten har kommit långt sedan dessa tider, eller hur?"
           }
         },
         "ID": "reaction_0"
@@ -1962,13 +1962,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This movie supposedly takes place in a 'futuristic' society... it will be interesting to see what that looks like!"
+            "Text": "Den här filmen utspelar sig tydligen i ett \"futuristiskt\" samhälle... Det ska bli intressant att se hur det gestaltas!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Great movie... but I wonder if there really is life beyond this planet?"
+            "Text": "Bra film... men jag undrar om det verkligen finns liv bortom den här planeten?"
           }
         },
         "ID": "reaction_1"
@@ -1981,17 +1981,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This one's right up my alley... you know I'm gonna love this.$h"
+            "Text": "Den här är helt i min smak... Du vet att jag kommer att älska den här.$h"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Demetrius 8/message Demetrius \"Demetrius is scratching his chin...\"",
-            "Text": "Technically, that's not correct...$3"
+            "Script": "/emote Demetrius 8/message Demetrius \"Demetrius kliar sig på hakan...\"",
+            "Text": "Tekniskt sett är det där inte korrekt...$3"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Well, they definitely embellished some things, but it was still mostly correct! Anyway, I had a good time."
+            "Text": "Nåväl, de utsmyckade definitivt vissa saker, men det var fortfarande mest korrekt! Hur som helst, jag hade det bra."
           }
         },
         "ID": "reaction_2"
@@ -2004,13 +2004,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I read about this one in the paper... didn't seem like the thing for me. But I'll give it a shot."
+            "Text": "Jag läste om den här i tidningen... Den verkade inte vara min grej, men jag ska ge den ett försök."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Nonsense! That was totally unscientific!$4"
+            "Text": "Dumheter! Det där var helt ovetenskapligt!$4"
           }
         },
         "ID": "reaction_4"
@@ -2023,13 +2023,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Even if a movie is bad, it's interesting to analyze."
+            "Text": "Även om en film är dålig är det intressant att analysera den."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmm... I wonder what aspect of human motivation is satisfied by the narrative of this film?$3"
+            "Text": "Hmm ... Jag undrar vilken aspekt av mänsklig motivation som tillfredsställs av filmens narrativ?$3"
           }
         },
         "ID": "reaction_3"
@@ -2047,17 +2047,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I feel out of place here... I hope I'm not bothering anyone.$s"
+            "Text": "Jag känner mig malplacerad här... Hoppas att jag inte stör någon.$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Linus 28/message \"Linus is looking at the floor...\"",
+            "Script": "/emote Linus 28/message \"Linus tittar ned i golvet...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Why stare at a screen when you could experience these things yourself?$s"
+            "Text": "Varför stirra på en skärm när man kan uppleva sådana här saker själv?$s"
           }
         },
         "ID": "reaction_1"
@@ -2077,17 +2077,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I feel out of place here... I hope I'm not bothering anyone.$s"
+            "Text": "Jag känner mig malplacerad här... Hoppas att jag inte stör någon.$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Linus 28/message \"Linus is looking at the floor...\"",
+            "Script": "/emote Linus 28/message \"Linus tittar ned i golvet...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm not used to that much stimulation... sorry if I was a disappointing guest, @. I still appreciate your inviting me!"
+            "Text": "Jag är inte van vid så mycket stimulans... Förlåt om jag var ett tråkigt sällskap, @. Jag uppskattar ändå verkligen att du bjöd med mig!"
           }
         },
         "ID": "reaction_2"
@@ -2112,17 +2112,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, wow! A palace constructed for the sole purpose of entertainment!"
+            "Text": "Jösses! Ett palats byggt endast för att underhålla!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Dwarf seems to be in a deep trance...\"",
+            "Script": "/message \"Dvärgen verkar vara i djup trans...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I didn't understand a thing, but the flashing lights were mesmerizing!"
+            "Text": "Jag förstod ingenting, men de blinkande ljusen var hypnotiska!"
           }
         },
         "ID": "reaction_1"
@@ -2147,13 +2147,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I know I'm going to love this movie! It was really nice of you to invite me, @.$h"
+            "Text": "Jag vet att jag kommer älska den här filmen! Det var verkligen snällt av dig att bjuda med mig, @.$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Oh, I'm so glad the family was alright in the end. And the cows, too!$h"
+            "Text": "Åh, jag är så glad att familjen var klarade sig i slutet. Och kossorna också!$h"
           }
         },
         "ID": "reaction_1"
@@ -2166,13 +2166,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm pretty easy-going when it comes to movies... I like just about everything!"
+            "Text": "Jag är ganska lättsam när det gäller filmer... Jag gillar nästan allting!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I had a great time, @! Thanks for thinking of me."
+            "Text": "Det var jättetrevligt, @! Tack för att du tänkte på mig."
           }
         },
         "ID": "reaction_2"
@@ -2190,17 +2190,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Buh... Yeah, I guess this might be okay. *sniff* *sniff* ... a snack might help."
+            "Text": "*stön*... Jo, jag antar att det här kan funka. *sniff* *sniff* ...Snacks skulle nog underlätta."
           },
           "DuringMovie": {
             "ResponsePoint": "PK_villain",
             "Script": "",
-            "Text": "I'm rooting for the villain... *urp*"
+            "Text": "Jag hejar på skurken... *rap*"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Okay, I'll admit... I thought it was pretty good."
+            "Text": "Okej, jag ska vara ärlig... Jag tyckte att den var ganska bra."
           }
         },
         "ID": "reaction_4"
@@ -2241,17 +2241,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh. I'm actually interested in seeing this one..."
+            "Text": "Hehe. Jag är faktiskt intresserad av att se den här..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Shane's trying not to smile.\"",
-            "Text": "Okay, this is good...$h"
+            "Script": "/message \"Shane försöker låta bli att le.\"",
+            "Text": "Okej, den här är bra...$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "When you're watching a good movie, you can forget about everything else... That's a gift."
+            "Text": "När man tittar på en bra film kan du glömma allt annat... Det är en gåva."
           }
         },
         "ID": "reaction_5"
@@ -2264,13 +2264,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Buh... Yeah, I guess this might be okay. *sniff* *sniff* ... a snack might help."
+            "Text": "*stön*... Jo, jag antar att det här kan funka. *sniff* *sniff* ...Snacks skulle nog underlätta."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Okay, I'll admit... I thought it was pretty good."
+            "Text": "Okej, jag ska vara ärlig... Jag tyckte att den var ganska bra."
           }
         },
         "ID": "reaction_6"
@@ -2283,17 +2283,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ugh... this is going to be painful."
+            "Text": "*stön*... Det här kommer att bli plågsamt."
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/emote Shane 28/message \"Shane's slumped over...\"",
+            "Script": "/emote Shane 28/message \"Shane sitter ihopsjunken...\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I feel depressed...$s"
+            "Text": "Jag känner mig deppad...$s"
           }
         },
         "ID": "reaction_7"
@@ -2332,17 +2332,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm really happy to see a movie!"
+            "Text": "Jag är jätteglad att få titta på film!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/jump Jas/pause 400/playSound reward/message \"Jas is ecstatic!\"",
+            "Script": "/jump Jas/pause 400/playSound reward/message \"Jas är utom sig av glädje!\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was so much fun! Thanks for bringing me!$h"
+            "Text": "Det var jättekul! Tack för att du tog med mig!$h"
           }
         },
         "ID": "reaction_3"
@@ -2355,17 +2355,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This is a grown-up movie, right? I'll be okay!"
+            "Text": "Det här är väl en vuxenfilm? Det går bra för mig!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"Jas is nodding and glancing sideways.\"",
+            "Script": "/message \"Jas nickar och sneglar åt sidan.\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I thought it was good! It had... um... good 'die-a-log'! ...right?"
+            "Text": "Jag tyckte att den var bra! Det hade... öh... bra \"dii-a-lååg\"! ...eller hur?"
           }
         },
         "ID": "reaction_4"
@@ -2378,17 +2378,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I... I'm not sure I'm allowed to see this...$s"
+            "Text": "Jag... Jag vet inte om jag får se den här...$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Jas 250/pause 500/shake Jas 250/pause 500/emote Jas 28/message \"Jas is trembling.\"",
-            "Text": "I'm scared...$s"
+            "Script": "/shake Jas 250/pause 500/shake Jas 250/pause 500/emote Jas 28/message \"Jas darrar.\"",
+            "Text": "Jag är rädd...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*sniff*...$s"
+            "Text": "*snyft*...$s"
           }
         },
         "ID": "reaction_5"
@@ -2406,13 +2406,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I've heard there's some really beautiful nature footage in this one... I'm really looking forward to it!$h"
+            "Text": "Jag har hört att det ska vara några riktigt vackra naturbilder i den här... Jag ser verkligen fram emot det!$h"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great. I'm pretty sure I even saw my cabin in one of those Stardew Valley aerial shots!$h"
+            "Text": "Den där var fantastiskt. Jag är ganska säker på att jag till och med såg min stuga i en av flygbilderna över Stjärndaggsdalen!$h"
           }
         },
         "ID": "reaction_4"
@@ -2453,13 +2453,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm really intrigued by this movie... I'm a sucker for the mysterious."
+            "Text": "Jag är verkligen nyfiken på den här filmen... Jag är svag för det mystiska."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great! The narrative was very loose, but I think it was intended to speak to the emotions, not the intellect."
+            "Text": "Det var fantastiskt! Handlingen var väldigt svävande, men jag tror att den var tänkt att tala till känslorna i stället för intellektet."
           }
         },
         "ID": "reaction_5"
@@ -2472,13 +2472,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm not sure what to expect with this movie, but I'm going to keep an open mind!"
+            "Text": "Jag vet inte riktigt vad jag ska förvänta mig av filmen, men jag tänker hålla ett öppet sinne!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was simple, but good... It's like the comfort food of cinema."
+            "Text": "Den var enkel, men bra... Ungefär som filmvärldens motsvarighet till husmanskost."
           }
         },
         "ID": "reaction_6"
@@ -2491,13 +2491,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "From the movie poster, this one looks pretty cheesy."
+            "Text": "Utifrån filmaffischen ser den här ganska klyschig ut."
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was kind of lowbrow, wasn't it?"
+            "Text": "Den var ganska banal, eller hur?"
           }
         },
         "ID": "reaction_7"
@@ -2522,13 +2522,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm so happy to have an excuse to come to Pelican Town!"
+            "Text": "Jag är så glad att ha en ursäkt att komma till Pelikanstaden!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was a lot of fun, thanks for inviting me! I'd better head home soon..."
+            "Text": "Det var jätteroligt. Tack för att du bjöd med mig! Det är nog bäst att jag beger mig hemåt snart..."
           }
         },
         "ID": "reaction_1"
@@ -2567,13 +2567,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I foresee this to be an exquisite night!"
+            "Text": "Jag förutser att det här kommer att bli en utsökt natt!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I feel as if my spirit is charged... as if the energy of the film was transfered to me. Incredible!"
+            "Text": "Det känns som om min själ har laddats upp... som om filmens energi överfördes till mig. Otroligt!"
           }
         },
         "ID": "reaction_3"
@@ -2586,13 +2586,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I've avoided all information about this film... I like to go in completely 'blind'!"
+            "Text": "Jag har undvikit all information om den här filmen... Jag gillar vara utan minsta föraning om vad som väntar!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Very interesting... I'll be pondering that one for a while."
+            "Text": "Mycket intressant... Jag ska fundera över den där ett bra tag."
           }
         },
         "ID": "reaction_4"
@@ -2605,13 +2605,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It would be a lie to say I'm looking forward to this one...$s"
+            "Text": "Det vore en lögn att påstå att jag ser fram emot den här...$s"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was very mundane, don't you think?"
+            "Text": "Den här var väldigt alldagligt. Tycker du inte det?"
           }
         },
         "ID": "reaction_5"
@@ -2629,13 +2629,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hehe... I'd never turn down a free movie!"
+            "Text": "Hehe... Jag skulle aldrig tacka nej till en gratisfilm!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ah, that reminds me of a story me ol' Pops used to tell..."
+            "Text": "Ah, den där påminner mig om en historia som farsgubben brukade berätta för mig..."
           }
         },
         "ID": "reaction_0"
@@ -2667,17 +2667,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm excited to see this one... I want to learn everything about the world!"
+            "Text": "Jag ser fram emot att se den här... Jag vill lära mig allt om världen!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/jump Leo/pause 400/playSound reward/message \"Leo is glued to the screen!\"",
+            "Script": "/jump Leo/pause 400/playSound reward/message \"Leo är helt uppslukad av filmen!\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Did you see that? They showed the fern islands... that's where I'm from!$h"
+            "Text": "Såg du det där? De visade Ormbunksöarna... Det är därifrån jag kommer!$h"
           }
         },
         "ID": "reaction_3"
@@ -2690,17 +2690,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm really happy to be here. This is all so interesting!"
+            "Text": "Jag är jätteglad över att få vara här. Allt det här är så intressant!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/pause 500/emote Leo 32/message \"Leo seems very interested in the movie.\"",
+            "Script": "/pause 500/emote Leo 32/message \"Leo verkar vara väldigt intresserad av filmen.\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wow... it was like magic!"
+            "Text": "Oj... Det var som magi!"
           }
         },
         "ID": "reaction_4"
