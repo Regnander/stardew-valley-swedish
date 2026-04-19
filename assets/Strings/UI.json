@@ -1,6 +1,6 @@
 {
   "LearnedRecipe_cooking": "mat",
-  "LearnedRecipe_crafting": "föremåls",
+  "LearnedRecipe_crafting": "föremål",
   "LearnedRecipe": "Du lärde dig ett nytt {0}recept: {1}",
   "FarmerFile_1": "Fil för: {0}\nAntal steg: {1}\nAntal givna gåvor: {2}\nAntal dygn i Stjärndaggsdalen: {3}\nAntal plöjda jordrutor: {4}\nAntal tillverkade föremål: {5}\nAntal tillagade föremål: {6}\nAntal återvunna skräp: {7}",
   "FarmerFile_2": "Antal dräpta monster: {0}\nAntal fångade fiskar: {1}\nAntal kast med fiskespö: {2}\nAntal sådda frön: {3}\nAntal sålda föremål: {4} ",
@@ -247,7 +247,7 @@
   "LevelUp_ProfessionName_Desperado": "Desperado",
   "LevelUp_ProfessionDescription_Desperado": "Mer styrka för bonusskada.",
   "LevelUp_ChooseProfession": "Välj ett yrke:",
-  "LevelUp_NewRecipe": "Nytt {0}srecept: {1}",
+  "LevelUp_NewRecipe": "Nytt {0}recept: {1}",
   "LoadGameMenu_LookingForSavedGames": "Letar efter sparade spel...",
   "LoadGameMenu_Deleting": "Raderar...",
   "TitleMenu_PressAToStart": "TRYCK PÅ @ FÖR ATT STARTA",

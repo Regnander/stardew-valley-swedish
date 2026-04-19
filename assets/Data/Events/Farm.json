@@ -1,5 +1,5 @@
 {
-  "5/e 3/v Abigail/t 600 800": "continue/64 15/farmer 64 16 2 Abigail 64 18 0/pause 1500/speak Abigail \"Hej. Öh... Jag ville bara be om ursäkt för mitt konstiga beteende i går.#$b#Du förstår förmodligen vad som hände...$l#$b#Öh, okej... Hej då.\"/pause 500/end",
+  "5/e 3/v Abigail/t 600 800": "continue/64 15/farmer 64 16 2 Abigail 64 18 0/pause 1500/speak Abigail \"Hej. Öh... Jag ville bara be om ursäkt för mitt konstiga beteende i går.#$b#Du förstår förmodligen vad som hände...$l#$b#Öh... okej... Hej då.\"/pause 500/end",
   "47/f Sam 2000/t 600 800/e 44": "continue/64 15/farmer 64 16 2 Sam 64 18 0/pause 1500/speak Sam \"Hej, @. Gissa vad? I kväll har mitt band en spelning i Zuzu City!#$b#Möt mig på busshållplatsen runt 16:00 för att följa med till föreställningen. Bäst för dig att du dyker upp!\"/pause 300/end dialogue Sam \"Jag känner mig både ivrig och lite nervös inför kvällens föreställning. Jag är säker på att allt kommer gå bra.\"",
   "2346097/f Abigail 2010/x abbySpiritBoard": "null",
   "2346096/f Penny 2505/x pennySpa": "null",
