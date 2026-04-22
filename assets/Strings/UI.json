@@ -1,6 +1,6 @@
 {
   "LearnedRecipe_cooking": "mat",
-  "LearnedRecipe_crafting": "föremål",
+  "LearnedRecipe_crafting": "föremåls",
   "LearnedRecipe": "Du lärde dig ett nytt {0}recept: {1}",
   "FarmerFile_1": "Fil för: {0}\nAntal steg: {1}\nAntal givna gåvor: {2}\nAntal dygn i Stjärndaggsdalen: {3}\nAntal plöjda jordrutor: {4}\nAntal tillverkade föremål: {5}\nAntal tillagade föremål: {6}\nAntal återvunna skräp: {7}",
   "FarmerFile_2": "Antal dräpta monster: {0}\nAntal fångade fiskar: {1}\nAntal kast med fiskespö: {2}\nAntal sådda frön: {3}\nAntal sålda föremål: {4} ",
@@ -173,7 +173,7 @@
   "JunimoNote_MustBeAtCC": "Måste lämnas in i medborgarhuset",
   "JunimoNote_MustBeAtAJM": "Måste lämnas in i övergivna JojaMart",
   "LetterViewer_MoneyIncluded": "$ {0} G har bifogats",
-  "LetterViewer_LearnedRecipe": "Nytt {0}srecept:",
+  "LetterViewer_LearnedRecipe": "Nytt {0}recept:",
   "LetterViewer_LearnedRecipeName": "\"{0}\"",
   "LevelUp_Title": "Nivå {0} - {1}",
   "LevelUp_Stamina_Restored": "Energi har återställts helt!",
