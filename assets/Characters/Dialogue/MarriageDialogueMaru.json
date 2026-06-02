@@ -21,7 +21,7 @@
   "Indoor_Night_2": "Jag kan inte bestämma mig om jag vill ha chokladtårta eller mogna jordgubbar. Eller kanske båda...?#$e#Var ärlig mot mig... Har jag gått upp i vikt?$s",
   "Indoor_Night_3": "Du gjorde ett bra arbete i dag! Du förtjänar att koppla av resten av kvällen.",
   "Indoor_Night_4": "Jag börjar verkligen älska det här gamla huset. Det är så mysigt på kvällen.#$e#Mamma gjorde ett bra jobb när hon uppgraderade det där.$h",
-  "Outdoor_0": "Ahh... Gården luktar så gott och påminner mig om bergen vid min föräldrars hus.",
+  "Outdoor_0": "Ahh... Gården doftar så gott och påminner mig om bergen vid min föräldrars hus.",
   "Outdoor_1": "Med lite planering kan vi automatisera det mesta av gårdsarbetet och bara koppla av!",
   "Outdoor_2": "Det kommer att bli klart i kväll... Jag undrar om sjärnbilden \"%noun\" kommer att synas?",
   "Outdoor_3": "Oroa dig inte, jag bryr mig inte om du tar med dig lera in i huset. Det är kul att vara lite smutsig emellanåt.",
@@ -35,7 +35,7 @@
   "Good_3": "Det krävs mycket strategi för att planera och driva en gård. Det är mer intellektuellt stimulerande än vad jag trodde!",
   "Good_4": "En stund övervägde jag att bygga en robotmake, men du är mycket roligare!$h^En stund övervägde jag att bygga en robotfru, men du är mycket roligare!$h",
   "Good_5": "Jag beundrade precis mitt bröllopsamulett... Höljet är fläckfritt. Detta är ett mycket sällsynt exemplar!$l",
-  "Good_6": "I natt hade jag en dröm där jag tittade i ett gigantiskt teleskop och såg något förflytta sig i nebulosan \"%noun\". Det var ganska läskigt.",
+  "Good_6": "I natt hade jag en dröm där jag tittade i ett gigantiskt teleskop och såg någonting förflytta sig i nebulosan \"%noun\". Det var ganska läskigt.",
   "Neutral_0": "Jag hoppas att du fortfarande skulle gilla mig även om jag gick upp i vikt.",
   "Neutral_8": "I dag känner jag mig oinspirerad.$s",
   "funLeave_Maru": "Jag tror att jag ska besöka mina föräldrar i dag. Jag har inte träffat dem på ett tag.",
@@ -55,5 +55,5 @@
   "summer_Maru": "Kvällarna är så varma att det verkligen är den bästa tiden på året för att titta på stjärnorna. Vem vet vad som finns där ute?",
   "fall_Maru": "Livet på gården är fantastiskt, men jag är glad att jag fortfarande arbetar på kliniken... Det är viktigt för samhället.",
   "winter_Maru": "Jag ser verkligen fram emot lite rabarberpaj på våren. Åh... Den syrliga smaken!",
-  "spouseRoom_Maru": "#$c .5#Jag klev upp tidigt för att titta lite på stjärnorna.#$e#Jag hoppas att du inte har något emot om jag spenderar lite tid på mina projekt i dag, älskling."
+  "spouseRoom_Maru": "#$c .5#Jag klev upp tidigt för att titta lite på stjärnorna.#$e#Jag hoppas att du inte har någonting emot om jag spenderar lite tid på mina projekt i dag, älskling."
 }

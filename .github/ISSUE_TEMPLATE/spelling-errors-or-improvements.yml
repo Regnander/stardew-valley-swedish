@@ -4,11 +4,16 @@ labels: ["spelling error / improvement ✏"]
 assignees:
   - Regnander
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Feel free to report what you've found in either Swedish or English!
+        Thank you for helping out! :heart:
   - type: textarea
     id: existing_text
     attributes:
       label: 🔍 What have you found?
-      description: Please describe the concerned text or upload a screenshot (by dropping the image inside the input box below) to give additional context.
+      description: Please provide a description or upload a screenshot to give additional context.
     validations:
       required: true
   - type: textarea
@@ -18,6 +23,3 @@ body:
       description: Please suggest how the text can be improved.
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: Thank you for helping out! ❤

@@ -2,6 +2,17 @@
   "Format": "1.28.0",
   "Changes": [
     {
+      "LogName": "Changing fish size to cm when 'Inches To Metric System' is installed",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "FishingRod.cs.14083": "{0} cm" 
+      },
+      "When": {
+        "HasMod": "Lombus.InchesToMetricSystem"
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Data/AdditionalLanguages",
       "Entries": {
