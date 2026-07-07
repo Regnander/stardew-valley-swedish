@@ -235,7 +235,7 @@
   "summer_movie_0": {
     "ID": null,
     "SheetIndex": 2,
-    "Title": "Berättelsen om präiriekungen: Filmen",
+    "Title": "Berättelsen om präriekungen: Filmen",
     "Description": "Det älskade tv-spelet kommer till bioduken!",
     "Tags": [
       "action"
@@ -247,7 +247,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 4000",
-        "Text": "\"Berättelsen om präiriekungen: Filmen\"",
+        "Text": "\"Berättelsen om präriekungen: Filmen\"",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_0"
@@ -258,7 +258,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "På den dammiga gamla stigen finner vi återigen präiriekungen som vaktar en vagnkaravan fylld med värdefulla skatter.",
+        "Text": "På den dammiga gamla stigen finner vi återigen präriekungen som vaktar en vagnkaravan fylld med värdefulla skatter.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "summer0_1"
@@ -302,7 +302,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Präiriekungen hör ett svagt mullrande i fjärran... Titta!",
+        "Text": "Präriekungen hör ett svagt mullrande i fjärran... Titta!",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "summer0_5"
@@ -802,7 +802,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Långt västerut ligger Präirieön ensam i det stora Ädelstenshavet. Trots sitt namn är detta land hemvisten för en mängd olika naturliga biotoper.",
+        "Text": "Långt västerut ligger Prärieön ensam i det stora Ädelstenshavet. Trots sitt namn är detta land hemvisten för en mängd olika naturliga biotoper.",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring1_5"

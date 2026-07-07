@@ -1,5 +1,5 @@
 {
-  "Introduction": "Åh... du är väl den nya bondpojken?^Åh... du är väl typ den nya bondflickan. Eller hur?#$e#Vad då? Åh... Jag heter Haley.#$e#Hmm... Om det inte vore för de fruktansvärda kläderna skulle du faktiskt kunna vara söt.^Hmm... Om det inte vore för de fruktansvärda kläderna skulle du faktiskt kunna vara vacker... Förresten, glöm det.$h",
+  "Introduction": "Åh... du är väl den nya bondkillen?^Åh... du är väl typ den nya bondtjejen. Eller hur?#$e#Vad då? Åh... Jag heter Haley.#$e#Hmm... Om det inte vore för de fruktansvärda kläderna skulle du faktiskt kunna vara söt.^Hmm... Om det inte vore för de fruktansvärda kläderna skulle du faktiskt kunna vara vacker... Förresten, glöm det.$h",
   "Resort_Entering": "Jag såg en delfin på vägen hit!",
   "Resort_Leaving": "Det är någonting med solen som får mig att må bra.",
   "Resort_Shore": "Det är märkligt hur livet kan ta en till olika platser... Vem vet vilka andra platser det finns där ute?",
@@ -25,7 +25,7 @@
   "Sun": "Min syster är så konstig. Ibland undrar jag om vi ens är släkt.$u",
   "Wed8": "Det finns bara två saker som jag gillar med den här staden.#$b#En av dem är stranden.#$e#Det andra är en hemlighet! *fniss*$h",
   "Tue2": "Jag undrar om några fina snäckskal spolades upp på stranden i morse.#$e#Det är dock inte den bästa årstiden för snäckskal.",
-  "Wed4": "Jag är glad att blommorna har börjat blomma ut.#$e#Den rosa sorten doftar så gott.$h",
+  "Wed4": "Vad trevligt att blommorna har börjat blomma ut.#$e#Den rosa sorten doftar så gott.$h",
   "Fri6": "Jag måste hitta någon slags hobby förutom att shoppa.#$e#Jag har beslutat för att utöka mina horisonter.#$e#Jag borde kanske lära mig att spela miniharpa.",
   "Mon6": "Jag brukade klaga på att den här staden var så liten, men jag har allteftersom börjat gilla den.#$e#Om den vore mycket större skulle det inte kännas som ett samhälle.",
   "Thu6": "Jag lagade middag i går kväll. Det blev faktiskt helt okej!#$e#Men jag stökade till det ordentligt i köket...",
@@ -65,7 +65,7 @@
   "summer_Fri4": "I dag tillbringade jag 3 timmar på att öva på min signatur.#$e#Jag antar att det är ganska fånigt, eller hur?",
   "summer_Thu6": "Om du vistas mycket i solen blir ditt hår blekare... men du vill inte heller bli solbränd.#$e#Jag vill bara ha en hälsosam mängd solljus. Lagom är bäst, eller hur?",
   "summer_Mon6": "Jag bör börja läsa några böcker i stället för tidningar.#$e#Det är bra att lära sig saker, eller hur?#$e#Jag tittar bara på bilderna.",
-  "summer_Sun6": "#$1 HaleySister#Jag pratade med min syster en stund i går kväll. Det var faktiskt riktigt roligt.#$e#Vet du vad? Emily är faktiskt inte så konstig. Jag antar att vi har mer gemensamt än vad jag trodde.#$e#Berätta inte för henne att jag sa det.",
+  "summer_Sun6": "#$1 HaleySister#Jag pratade med min syster en stund i går kväll. Det var faktiskt riktigt roligt.#$e#Vet du vad? Emily är faktiskt inte så konstig. Jag antar att vi har mer gemensamt än vad jag trodde.#$e#Berätta inte för henne att jag sade det.",
   "summer_Sat6": "Det ser ut som en bra dag att simma.",
   "summer_Tue8": "Jag antar att det inte är så illa att bo på landet.#$e#Om jag bodde i storstaden skulle jag kanske börja sakna alla träd.#$e#Jag tror att jag umgås med dig för mycket, @.$h",
   "summer_Fri10": "Åh! Hej, @!#$e#Gillar du barn?$l",
@@ -103,6 +103,6 @@
   "winter_Sun6": "Kan du hälsa Alex att jag är upptagen i dag om du träffar honom?#$e#Tack.",
   "winter_Mon8": "Jag önskar att vi hade varmare väder här i Stjärndaggsdalen.#$e#Jag skulle kunna flytta någon annanstans, men...",
   "winter_Fri8": "Tror du att du någonsin kommer att ha en ponny på din gård?",
-  "winter_Sat8": "Jag är glad att du har mindre arbete att göra på vintern.#$e#Det måste väl vara trevligt att ta en paus?",
+  "winter_Sat8": "Vad trevligt att du har mindre arbete att göra på vintern.#$e#Det måste väl vara trevligt att ta en paus?",
   "winter_Sun10": "Du ser väderbiten ut i dag, @. Jag gillar det.^Du är fin i dag, @.#$e#...$h"
 }
