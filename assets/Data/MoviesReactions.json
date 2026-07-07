@@ -580,7 +580,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Jag är glad att man fortfarande gör anständiga filmer... Jag hade riktigt roligt!"
+            "Text": "Vad trevligt att man fortfarande gör anständiga filmer... Jag hade riktigt roligt!"
           }
         },
         "ID": "reaction_3"
@@ -685,7 +685,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Jag fattar inte att de gjorde en film om Präiriekungen... Jag hoppas att den är bra!"
+            "Text": "Jag fattar inte att de gjorde en film om Präriekungen... Jag hoppas att den är bra!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -1095,7 +1095,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Som barn tittade jag på cowboyfilmer... Jag är glad att konsten fortfarande är vid liv!"
+            "Text": "Som barn tittade jag på cowboyfilmer... Vad trevligt att konsten fortfarande är vid liv!"
           },
           "DuringMovie": {
             "ResponsePoint": "PK_villain",

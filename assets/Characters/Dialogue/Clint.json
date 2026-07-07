@@ -8,7 +8,7 @@
   "Resort_Bar": "Jag är hungrig...$s",
   "Resort": "*suck*... Allihop är på stranden, men ändå jag känner mig så ensam...$s",
   "reject_868": "Hmm... Vilken intressant sten. Den liknar ingenting jag sett förut.#$b#Jag skulle dock inte veta vad man gör med det. Jag hanterar vardagliga saker, inte den magiska sorten...",
-  "cc_Minecart": "På något sätt började stadens gamla gruvvagnssystem fungera igen. Det är väldigt bekvämt för att färdas till och från gruvorna.#$b#Förlita dig inte på det alltför mycket... Om det helt plötsligt kan börja fungera kan det även sluta fungera lika snabbt...",
+  "cc_Minecart": "På något sätt började stadens gamla gruvvagnssystem fungera igen. Det är väldigt bekvämt för att färdas till och från gruvan.#$b#Förlita dig inte på det alltför mycket... Om det helt plötsligt kan börja fungera kan det även sluta fungera lika snabbt...",
   "Mon": "Japp. Jag är en smed.#$e#Min far var också en smed.#$e#Även min farfar var en smed.$u#$q 9/9 Mon_old#Jag slår vad om att du inte kan gissa vad min farfars far var...#$r 9 30 Mon_9#En smed.#$r 9 50 Mon_clown#En clown.#$r 9 -50 Mon_rude#Ett sarkastiskt skämt.",
   "Mon_old": "Och ja, min farfars far var också en smed.",
   "Mon_9": "Hur visste du det?$u",
