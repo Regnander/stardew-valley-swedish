@@ -1,9 +1,9 @@
 {
   "1": "Location/Träffa trollkarlen/Du fick ett brev från traktens trollkarl. Han påstår sig ha information om det gamla medborgarhuset./Gå in i trollkarlens torn./WizardHouse/-1/0/-1/false",
-  "2": "Basic/Mystiske Qi/Inuti en hemlig plåtlåda hittade du en lapp med specifika instruktioner som är undertecknat av \"Mr Qi\"./Lämna ett regnbågsskal i lådan på tågplattformen./null/-1/0/-1/false",
-  "3": "Basic/Mystiske Qi/Du hittade en annan lapp från \"Mr Qi\" och den här gången är instruktionerna är ännu konstigare./Lägg 10 rödbetor i borgmästare Lewis kylskåp./null/-1/0/-1/false",
+  "2": "Basic/Mystiske Qi/Inuti en hemlig plåtlåda hittade du en lapp med specifika instruktioner som är undertecknat av \"mr Qi\"./Lämna ett regnbågsskal i lådan på tågplattformen./null/-1/0/-1/false",
+  "3": "Basic/Mystiske Qi/Du hittade en annan lapp från \"mr Qi\" och den här gången är instruktionerna är ännu konstigare./Lägg 10 rödbetor i borgmästare Lewis kylskåp./null/-1/0/-1/false",
   "4": "Basic/Mystiske Qi/Du har hittat ännu en konstig lapp i borgmästarens kylskåp. Den här gången är instruktionerna mer kryptiska./\"Ge sanddraken sin sista måltid.\"/null/-1/0/-1/false",
-  "5": "Basic/Mystiske Qi/Du hittade en annan lapp i sanddrakens ögonhåla. Det verkar som om Mr Qis märkliga skattjakt är över./Undersök vedhögen vid ditt hus./null/-1/0/-1/false",
+  "5": "Basic/Mystiske Qi/Du hittade en annan lapp i sanddrakens ögonhåla. Det verkar som om mr Qis märkliga skattjakt är över./Undersök vedhögen vid ditt hus./null/-1/0/-1/false",
   "6": "ItemHarvest/Kom igång/Om du vill bli en bonde måste du börja med grunderna. Plöj jorden med din flåhacka, använd sedan ett fröpaket på åkerjorden för att så en gröda. Vattna varje dag tills grödan är redo att sköras./Odla och skörda en palsternacka./24/h7 8/100/-1/true",
   "7": "Building/Djurskötsel/Snickaren Robin bor norr om staden. I utbyte mot material och pengar bygger hon nya byggnader på din gård. Hon behövs för att bygga hönshus eller ladugårdar så att du kan skaffa djur./Bygg ett hönshus./Coop/-1/100/-1/true",
   "8": "Crafting/Framsteg/När du går upp i nivå upptäcker du nya föremålsrecept som gör livet lättare och lönsammare. En fågelskrämma förhindrar till exempel kråkor från att kalasa på dina dyrbara grödor./Nå nivå 1 i jordbruk och tillverka en fågelskrämma./8 true/-1/100/-1/true",
