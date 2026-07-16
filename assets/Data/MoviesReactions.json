@@ -245,7 +245,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hej, pysen. Tack för din inbjudan."
+            "Text": "Hej, pysen. Tack för din inbjudan.^Hej, tjejen. Tack för din inbjudan."
           },
           "DuringMovie": null,
           "AfterMovie": {

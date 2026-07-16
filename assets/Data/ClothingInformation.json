@@ -1,7 +1,7 @@
 {
   "-1": "Pants/Byxor/Ett byxpar som man kan ha på sig./0/-1/50/255 235 203/true/Pants",
   "-2": "Shirt/Tröja/En tröja som man kan ha på sig./0/-1/50/255 255 255/false/Shirt",
-  "0": "Farmer Pants/Bondebyxor/Bekväma och slitstarka för att arbeta länge utomhus./0/-1/50/255 235 203/true/Pants",
+  "0": "Farmer Pants/Bondebyxor/Bekväma och slitstarka för att kunna arbeta länge utomhus./0/-1/50/255 235 203/true/Pants",
   "1": "Shorts/Shorts/Perfekt för en varm sommardag... Dina ben kommer att tacka dig./1/-1/50/255 235 203/true/Pants",
   "2": "Dress/Lång klänning/En lång och böljande klänning./2/-1/50/255 235 203/true/Pants",
   "3": "Skirt/Kjol/En söt kjol./3/-1/50/255 235 203/true/Pants",
