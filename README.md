@@ -2,17 +2,13 @@
 
 <div align='center'>
 
-This repository is used to track the progress and hold the files of a little project of mine – to translate Stardew Valley into Swedish.
-
-![][delimiter]
+This repository is used to track the progress and hold the files of a little project of mine – to translate Stardew Valley into Swedish.
 
 | Game version |           Text progress            |            Sprite progress             |
 | :----------: | :--------------------------------: | :------------------------------------: |
 |    1.5.6     |  [![Text_1_5_6]][Text_1_5_6_link]  |  [![Sprite_1_5_6]][Sprite_1_5_6_link]  |
-|    1.6.9     |  [![Text_1_6_9]][Text_1_6_9_link]  |  [![Sprite_1_6_9]][Sprite_1_6_9_link]  |
+|    1.6.8     |  [![Text_1_6_8]][Text_1_6_8_link]  |  [![Sprite_1_6_8]][Sprite_1_6_8_link]  |
 |    1.6.15    | [![Text_1_6_15]][Text_1_6_15_link] | [![Sprite_1_6_15]][Sprite_1_6_15_link] |
-
-<!-- ![][delimiter] -->
 
 <!-- [![report]](https://github.com/Regnander/stardew-valley-swedish/issues/new?template=spelling-errors-or-improvements.yml)<br> -->
 <!-- [![nexus]](https://www.nexusmods.com/stardewvalley/mods/45054)<br> -->
@@ -52,21 +48,19 @@ This repository is used to track the progress and hold the files of a little pro
 
 <!-- ## :triangular_flag_on_post: Known issues -->
 
-[delimiter]: data:image/webp;base64,UklGRjIFAABXRUJQVlA4WAoAAAASAAAAPAAADwAAQU5JTQYAAAD/////AABBTk1GPgEAAAAAAAAAADwAAA8AACwBAAFWUDhMJgEAAC88wAMQb6AkANCGAHhCkIgiZD3uq7mVURRJirMGeCIHHRhEFj8swOWgJpIk5VDB5RS9AJL1tl/CXzj/AQD+a+DJmHA740GpfRxiH43rvEGqp4YFAG5s26qbE/8bKVbMLShlKVOokCF+M59yVSCZQUyRme64BHfgah7Nfx1E9F9h27aNknQP3QGHeGICnPj/dQP8R26N8N8cTkj8ODlPNZa0UpT8WI1bfvydvAn9mvD9TytnD7a4Fb6kRsDyrLHs7gEYGk/iraWSgOLQU+PlrO0BhsZT49P3QyFo6U3zOwDT81A1pkZrzlyu1Wi5n2pNcThcA9A1VHddLpe/sewOs9qkq16yaIC/G+VvwjKj2WJZPAOwaAAlZgKWu9NO0+jsAF3DIJUmAEFOTUY4AQAAAAAAAAAAPAAADwAALAEAAVZQOEwfAQAALzzAAxBvoCQA0IYAeEKQiCJkPe6ruZVRFEmKswZ4IgcdGEQWPyzA5aAmkiTlUMHlFL0AkvW2X8JfOP8BAP5r4MmYcDvjQal9HGIfjeu8QaqnhgUAbrPtiaQvtqONN8c6RsJseTdkiC0N5VvBMTM4OqZfV8J1cNUYFhuI6L/Ctm0bJd1LfQPbiyfia/L/u2ZDf3y9SkRva+xQRNnqPLmkCHN89W0uhVH2DeBCLuFCapLIFVH0CaAyYgaSAQs0jkWkcPkFm5VuDdveHQBL40m8hTr5xd3M0JQX8yoDLI0n/zOKEiH4RW9U0MzkSFe2RrhD5Lguv6iMrsyvGg+YGrrxHYe+AXnFNN2etl2gATr033IcuGiYHHUNLhomeaL8KwAAQU5NRjwBAAAAAAAAAAA8AAAPAAAsAQABVlA4TCQBAAAvPMADEG+gJADQhgB4QpCIImQ97qu5lVEUSYqzBngiBx0YRBY/LMDloCaSJOVQweUUvQCS9bZfwl84/wEA/mvgyZhwO+NBqX0cYh+N67xBqqeGBQButO1tm7cmKtXq4wpuldW5dJmUatwx9Z4g55xQOSecR/AGngbpiA0i+q+wbdtGSbqH7iAinrSAKP5/40D/ibhGpm8RJwxpWZ2ngTZMaqL6sYGepOV39SZPBzJNP4OohFAcy9QwEHChHC7W7wBP40m+TWwaOtMEUBfbqwl4Gk+jzzTNpRQXybJ1CyzV1Da+xmRH6+5gIC7ulk7TmU6vAFfDdofdbvcbtT5tOJN1+1JAA/096n4L1tqOLRcdBQQ0YEVre/v28Rbn7i24Gh61+jMAQU5NRjwBAAAAAAAAAAA8AAAPAAAsAQABVlA4TCMBAAAvPMADEG+gJADQhgB4QpCIImQ97qu5lVEUSYqzBngiBx0YRBY/LMDloCaSJOVQweUUvQCS9bZfwl84/wEA/mvgyZhwO+NBqX0cYh+N67xBqqeGBQBubNuqmxO/GylWjnWwlJEpJFH8Zj7lroBZDC8y0x2X4A5czQNhAxH9V9i2baMk3UN3YHvxxLQm/79rdvxH6zXSe1vjhMaLVuepwJpKjFY/VuCKF30D6Kkl9JQh8ArS8z4BZJrCQglggcat9DQF6oluamzZHk4AOBpP8q1iknqTrqWpeqdVATgaT6VPzwukpN5hM2HoqqZpXI3KGXO2UKBepjkA0Ms0rQ8cDTzxdTab/QbUQBjOD42tqwHEX0vZbwJ6Dcvj4ObAoteweYoxxwkA
-
 <!-- Palette: red → orange → yellow → 90C511 → forestgreen -->
-[Text_1_5_6]: https://img.shields.io/badge/99.0%25-forestgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
-[Text_1_6_9]: https://img.shields.io/badge/00.0%25-red?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
+[Text_1_5_6]: https://img.shields.io/badge/100%25-forestgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
+[Text_1_6_8]: https://img.shields.io/badge/00.0%25-red?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
 [Text_1_6_15]: https://img.shields.io/badge/00.0%25-red?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
 [Text_1_5_6_link]: https://github.com/Regnander/stardew-valley-swedish/issues/1 "View detailed progress"
-[Text_1_6_9_link]: https://github.com/Regnander/stardew-valley-swedish/issues/29 "View detailed progress"
+[Text_1_6_8_link]: https://github.com/Regnander/stardew-valley-swedish/issues/29 "View detailed progress"
 [Text_1_6_15_link]: https://github.com/Regnander/stardew-valley-swedish/issues/56 "View detailed progress"
 
 [Sprite_1_5_6]: https://img.shields.io/badge/100%25-forestgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==
-[Sprite_1_6_9]: https://img.shields.io/badge/00.0%25-red?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==
+[Sprite_1_6_8]: https://img.shields.io/badge/00.0%25-red?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==
 [Sprite_1_6_15]: https://img.shields.io/badge/00.0%25-red?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAD9JREFUCNdj4GAIEGBgYnANYGBoEBBgYFBwABIrHBwYmDiAjA4OBwYGDQ0glwskxsAAwowMYEIARAC1MYQKAAAY1gcsNLz5ggAAAABJRU5ErkJggg==
 [Sprite_1_5_6_link]: https://github.com/Regnander/stardew-valley-swedish/issues/2 "View detailed progress"
-[Sprite_1_6_9_link]: https://github.com/Regnander/stardew-valley-swedish/issues/30 "View detailed progress"
+[Sprite_1_6_8_link]: https://github.com/Regnander/stardew-valley-swedish/issues/30 "View detailed progress"
 [Sprite_1_6_15_link]: https://github.com/Regnander/stardew-valley-swedish/issues/57 "View detailed progress"
 
 [report]: https://img.shields.io/badge/Report_errors_/_suggest_improvements-teal?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAFBhaW50Lk5FVCA1LjEuMTITAUd0AAAAuGVYSWZJSSoACAAAAAUAGgEFAAEAAABKAAAAGwEFAAEAAABSAAAAKAEDAAEAAAACAAAAMQECABEAAABaAAAAaYcEAAEAAABsAAAAAAAAAGAAAAABAAAAYAAAAAEAAABQYWludC5ORVQgNS4xLjEyAAADAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAWgBAABAAAAlgAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAADZp5qVybcLXwAAAH9JREFUOE+VUkEOwCAMgj13D9LnssNswrDJNk5KwTZFAIAkoUHHF0dJIsksJFJzeHGZJoBpwglgbg8WoRvDeRdLGq496uCjYI3WcWUmwuhdHSRPZBMf6Q2lfSznDzZj173jNuNXZI5j5eZ3rBzbpbXjJFzzyOnNnLkCzU9JZP0Ci8yNLXHQL+oAAAAASUVORK5CYII=
