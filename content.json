@@ -1,5 +1,5 @@
 {
-  "Format": "1.28.0",
+  "Format": "2.3.0",
   "Changes": [
     {
       "LogName": "Changing fish size to cm when 'Inches To Metric System' is installed",
@@ -45,7 +45,7 @@
     {
       "LogName": "Events",
       "Action": "Load",
-      "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Tent, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_big, Data/Events/WizardHouse, Data/Events/Woods, Data/Events/BoatTunnel, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/QiNutRoom, Data/Events/FishShop",
+      "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Tent, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_Big, Data/Events/WizardHouse, Data/Events/Woods, Data/Events/BoatTunnel, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/QiNutRoom, Data/Events/FishShop",
       "FromFile": "assets/{{Target}}.json",
       "When": {
         "Language": "sv"
@@ -63,7 +63,7 @@
     {
       "LogName": "TV Channels",
       "Action": "Load",
-      "Target": "Data/TV/CookingChannel, Data/TV/InterviewShow, Data/TV/TipChannel",
+      "Target": "Data/TV/CookingChannel, Data/TV/TipChannel",
       "FromFile": "assets/{{Target}}.json",
       "When": {
         "Language": "sv"
@@ -72,7 +72,7 @@
     {
       "LogName": "Various Data",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
+      "Target": "Data/Achievements, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/MoviesReactions, Data/NPCGiftTastes, Data/Quests, Data/SecretNotes",
       "FromFile": "assets/{{Target}}.json",
       "When": {
         "Language": "sv"
@@ -100,7 +100,7 @@
     {
       "LogName": "Tilesheets",
       "Action": "Load",
-      "Target": "Maps/bathhouse_tiles, Maps/coopTiles, Maps/DesertTiles, Maps/fall_beach, Maps/fall_outdoorsTileSheet, Maps/fall_town, Maps/Festivals, Maps/samshowtiles, Maps/spring_beach, Maps/spring_outdoorsTileSheet, Maps/spring_town, Maps/summer_beach, Maps/summer_outdoorsTileSheet, Maps/summer_town, Maps/TownIndoors, Maps/townInterior, Maps/winter_beach, Maps/winter_outdoorsTileSheet, Maps/winter_town",
+      "Target": "Maps/bathhouse_tiles, Maps/coopTiles, Maps/DesertTiles, Maps/desert_festival_tilesheet_text, Maps/fall_beach, Maps/fall_outdoorsTileSheet, Maps/fall_town, Maps/Festivals, Maps/FishingDerbyTiles, Maps/MovieTheaterJoja_TileSheet, Maps/samshowtiles, Maps/spring_beach, Maps/spring_outdoorsTileSheet, Maps/springobjects, Maps/spring_town, Maps/summer_beach, Maps/summer_outdoorsTileSheet, Maps/summer_town, Maps/TownIndoors, Maps/townInterior, Maps/winter_beach, Maps/winter_outdoorsTileSheet, Maps/winter_town, TileSheets/furniture",
       "FromFile": "assets/{{Target}}.png",
       "When": {
         "Language": "sv"
@@ -109,7 +109,7 @@
     {
       "LogName": "Minigames",
       "Action": "Load",
-      "Target": "Minigames/Intro, Minigames/jojacorps, Minigames/TitleButtons",
+      "Target": "Minigames/Intro, Minigames/jojacorps, Minigames/TitleButtons, Minigames/Xb1ProfileButton",
       "FromFile": "assets/{{Target}}.png",
       "When": {
         "Language": "sv"
@@ -127,7 +127,7 @@
     {
       "LogName": "Other Strings",
       "Action": "Load",
-      "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI",
+      "Target": "Strings/1_6_Strings, Strings/animationDescriptions, Strings/Buildings, Strings/BigCraftables, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/Furniture, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/MovieConcessions, Strings/MovieReactions, Strings/Movies, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/StringsFromCSFiles, Strings/UI, Strings/Pants, Strings/Shirts, Strings/SimpleNonVillagerDialogues, Strings/Weapons, Strings/WorldMap",
       "FromFile": "assets/{{Target}}.json",
       "When": {
         "Language": "sv"
