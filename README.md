@@ -4,15 +4,11 @@
 
 This repository is used to track the progress and hold the files of a little project of mine – to translate Stardew Valley into Swedish.
 
-![][delimiter]
-
 | Game version |           Text progress            |            Sprite progress             |
 | :----------: | :--------------------------------: | :------------------------------------: |
 |    1.5.6     |  [![Text_1_5_6]][Text_1_5_6_link]  |  [![Sprite_1_5_6]][Sprite_1_5_6_link]  |
 |    1.6.8     |  [![Text_1_6_8]][Text_1_6_8_link]  |  [![Sprite_1_6_8]][Sprite_1_6_8_link]  |
 |    1.6.15    | [![Text_1_6_15]][Text_1_6_15_link] | [![Sprite_1_6_15]][Sprite_1_6_15_link] |
-
-<!-- ![][delimiter] -->
 
 <!-- [![report]](https://github.com/Regnander/stardew-valley-swedish/issues/new?template=spelling-errors-or-improvements.yml)<br> -->
 <!-- [![nexus]](https://www.nexusmods.com/stardewvalley/mods/45054)<br> -->
@@ -52,8 +48,6 @@ This repository is used to track the progress and hold the files of a little pro
 * [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) was used for translating item names and descriptions.
 
 <!-- ## :triangular_flag_on_post: Known issues -->
-
-[delimiter]: .github/delimiter.gif
 
 <!-- Palette: red → orange → yellow → 90C511 → forestgreen -->
 [Text_1_5_6]: https://img.shields.io/badge/100%25-forestgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
