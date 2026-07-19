@@ -100,7 +100,7 @@
     {
       "LogName": "Tilesheets",
       "Action": "Load",
-      "Target": "Maps/bathhouse_tiles, Maps/coopTiles, Maps/DesertTiles, Maps/desert_festival_tilesheet_text, Maps/fall_beach, Maps/fall_outdoorsTileSheet, Maps/fall_town, Maps/Festivals, Maps/FishingDerbyTiles, Maps/MovieTheaterJoja_TileSheet, Maps/samshowtiles, Maps/spring_beach, Maps/spring_outdoorsTileSheet, Maps/springobjects, Maps/spring_town, Maps/summer_beach, Maps/summer_outdoorsTileSheet, Maps/summer_town, Maps/TownIndoors, Maps/townInterior, Maps/winter_beach, Maps/winter_outdoorsTileSheet, Maps/winter_town, TileSheets/furniture",
+      "Target": "Maps/bathhouse_tiles, Maps/coopTiles, Maps/DesertTiles, Maps/desert_festival_tilesheet_text, Maps/fall_beach, Maps/fall_outdoorsTileSheet, Maps/fall_town, Maps/Festivals, Maps/FishingDerbyTiles, Maps/MovieTheaterJoja_TileSheet, Maps/samshowtiles, Maps/spring_beach, Maps/spring_outdoorsTileSheet, Maps/springobjects, Maps/spring_town, Maps/summer_beach, Maps/summer_outdoorsTileSheet, Maps/summer_town, Maps/TownIndoors, Maps/townInterior, Maps/winter_beach, Maps/winter_outdoorsTileSheet, Maps/winter_town",
       "FromFile": "assets/{{Target}}.png",
       "When": {
         "Language": "sv"
