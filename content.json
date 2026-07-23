@@ -6,7 +6,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "FishingRod.cs.14083": "{0} cm" 
+        "FishingRod.cs.14083": "{0} cm"
       },
       "When": {
         "HasMod": "Lombus.InchesToMetricSystem"
@@ -72,7 +72,7 @@
     {
       "LogName": "Various Data",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/MoviesReactions, Data/NPCGiftTastes, Data/Quests, Data/SecretNotes",
+      "Target": "Data/Achievements, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/hats, Data/mail, Data/Monsters, Data/NPCGiftTastes, Data/Quests, Data/SecretNotes",
       "FromFile": "assets/{{Target}}.json",
       "When": {
         "Language": "sv"
@@ -84,8 +84,7 @@
       "Target": "Data/Bundles",
       "FromFile": "assets/{{Target}}.json",
       "When": {
-        "Language": "sv",
-        "HasFlag": "canReadJunimoText"
+        "Language": "sv"
       }
     },
     {
@@ -138,6 +137,36 @@
       "Action": "Load",
       "Target": "Strings/credits",
       "FromFile": "assets/{{Target}}.json",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Overriding 'desert_festival_tilesheet_text_international'",
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet_text_international",
+      "FromFile": "assets/Maps/desert_festival_tilesheet_text.png",
+      "PatchMode": "Replace",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Overriding 'FishingDerbyTiles_international'",
+      "Action": "EditImage",
+      "Target": "Maps/FishingDerbyTiles_international",
+      "FromFile": "assets/Maps/FishingDerbyTiles_international.png",
+      "PatchMode": "Replace",
+      "When": {
+        "Language": "sv"
+      }
+    },
+    {
+      "LogName": "Overriding 'MovieTheaterJoja_TileSheet_international'",
+      "Action": "EditImage",
+      "Target": "Maps/MovieTheaterJoja_TileSheet_international",
+      "FromFile": "assets/Maps/MovieTheaterJoja_TileSheet.png",
+      "PatchMode": "Replace",
       "When": {
         "Language": "sv"
       }

@@ -7,7 +7,7 @@
   "6": "ItemHarvest/Kom igång/Om du vill bli en bonde måste du börja med grunderna. Plöj jorden med din flåhacka, använd sedan ett fröpaket på åkerjorden för att så en gröda. Vattna varje dag tills grödan är redo att sköras./Odla och skörda en palsternacka./24/h7 8/100/-1/true",
   "7": "Building/Djurskötsel/Snickaren Robin bor norr om staden. I utbyte mot material och pengar bygger hon nya byggnader på din gård. Hon behövs för att bygga hönshus eller ladugårdar så att du kan skaffa djur./Bygg ett hönshus./Coop/-1/100/-1/true",
   "8": "Crafting/Framsteg/När du går upp i nivå upptäcker du nya föremålsrecept som gör livet lättare och lönsammare. En fågelskrämma förhindrar till exempel kråkor från att kalasa på dina dyrbara grödor./Nå nivå 1 i jordbruk och tillverka en fågelskrämma./8 true/-1/100/-1/true",
-  "9": "Social/Introducering/Det skulle vara en trevligt att presentera dig för alla i staden. Vissa kanske är angelägna att få träffa den nya bonden././null/25/0/-1/true",
+  "9": "Social/Introducering/Det vore trevligt om du presenterade dig för alla i staden. Vissa kanske är angelägna att få träffa den nya bonden././null/25/0/-1/true",
   "10": "Basic/Kopparmalm/Du hittade en klimp med kopparmalm. Du vet inte vad den kan användas till, men stadens smed borde veta det./Ta med en bit kopparmalm till Clints smedja././-1/0/-1/false",
   "11": "Crafting/Smidesarbete/Om du vill fortsätta att bryta sten bör du bygga en masugn./Tillverka en masugn./13 true/12/0/-1/true",
   "12": "ItemHarvest/Smältning/Nu när du har byggt en masugn kan du smälta lite metall. Enligt Clints instruktioner bör masugnen producera en koppartacka om du placerar 5 kopparmalm och 1 kolbit i den./Använd din masugn för att smälta en koppartacka./334 1/-1/0/-1/true",
