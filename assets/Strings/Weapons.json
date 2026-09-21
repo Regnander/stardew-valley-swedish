@@ -50,12 +50,12 @@
   "WoodClub_Name": "Träklubba",
   "WoodClub_Description": "En solid träbit som har mejslats till en klubba.",
   "AlexsBat_Name": "Alex slagträ",
-  "AlexsBat_Description": "Slagytan är bucklig efter Alex berömda dunderslag.",
-  "LeadRod_Name": "Blystav",
+  "AlexsBat_Description": "Slagytan har en buckla från Alexs berömda dunderslag.",
+  "LeadRod_Name": "Blypåk",
   "LeadRod_Description": "Den är otroligt tung.",
   "WoodMallet_Name": "Träklubba",
   "WoodMallet_Description": "Det solida huvudet ger en rejäl kyss. Relativt lätt för att vara en klubba.",
-  "TheSlammer_Name": "Storsläggan",
+  "TheSlammer_Name": "Storslägga",
   "TheSlammer_Description": "En extremt tung klubba som får fiender att flyga iväg.",
   "GalaxyHammer_Name": "Galaxhammare",
   "GalaxyHammer_Description": "Den är gjord av ett ultralätt material som du aldrig sett förut.",
@@ -76,7 +76,7 @@
   "HarveysMallet_Name": "Harveys hammare",
   "HarveysMallet_Description": "Den väcker minnen från Harveys klinik.",
   "PennysFryer_Name": "Pennys stekpanna",
-  "PennysFryer_Description": "Pennys favoritstekpanna. Någonting segt och kladdigt sitter fast på insidan.",
+  "PennysFryer_Description": "Pennys favoritstekpanna. Någonting segt och kladdigt är fastbränt på insidan.",
   "LeahsWhittler_Name": "Leahs täljkniv",
   "LeahsWhittler_Description": "Leahs favoritverktyg för att formge drivved.",
   "AbbysPlanchette_Name": "Abbys planchett",
@@ -130,5 +130,5 @@
   "InfinityDagger_Name": "Evighetsdolk",
   "InfinityDagger_Description": "Galaxdolkens sanna form.",
   "Meowmere_Name": "Meowmere",
-  "Meowmere_Description": "An unusual weapon from a far away land..."
+  "Meowmere_Description": "Ett ovanligt vapen från ett avlägset land..."
 }
