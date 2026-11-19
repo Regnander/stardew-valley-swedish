@@ -32,26 +32,28 @@ This repository is used to track the progress and hold the files of a little pro
 * 'Stardew Valley Tribune' was not abbrevated to avoid confusion with the [Swedish public television broadcaster 'SVT'](https://en.wikipedia.org/wiki/Sveriges_Television).
 * House numbering format was rearranged to match the one used in Sweden, like '2 Willow Lane' → 'Willow Lane 2'.
 * 'Glacierfish Jr.' was renamed to 'Son of the Glacierfish', since 'junior' is (seemingly) mostly used in Swedish work titles.
-* 'Journey of the Prairie King' was renamed to 'The Story of the Prairie King' to avoid awkward phrasing while keeping the `___ of the ___` format in Swedish.
+* 'Journey of the Prairie King' was renamed to 'The Story of the Prairie King' to avoid awkward phrasing while keeping the `___ of the ___` format in Swedish.
 * 'Critical hit' was translated as 'Bonus damage'.
+* 'Sign Of The Vessel' was translated as 'Sign of The Savior'.
 
 ## :hammer_and_wrench: Tools
 ### Hardware
 * [Wacom Intuos Small](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos) was used for creating any hand-written text.
 
 ### Software
-* [paint.net](https://www.getpaint.net/) and [this font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used for editing sprites.
+* [paint.net](https://www.paint.net/) and [this font](https://fontstruct.com/fontstructions/show/1254619/stardew_valley) was used for editing sprites.
 * [Visual Studio Code](https://code.visualstudio.com/) was used for editing text files and version control management.
 
 ### Mods
 * [CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4) was used for translating date-specific events and dialogue.
 * [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) was used for translating item names and descriptions.
+* [Better Special Orders](https://www.nexusmods.com/stardewvalley/mods/24125) was used for translation special orders.
 
 <!-- ## :triangular_flag_on_post: Known issues -->
 
 <!-- Palette: red → orange → yellow → 90C511 → forestgreen -->
 [Text_1_5_6]: https://img.shields.io/badge/100%25-forestgreen?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
-[Text_1_6_8]: https://img.shields.io/badge/58.4%25-yellow?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
+[Text_1_6_8]: https://img.shields.io/badge/74.2%25-90C511?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
 [Text_1_6_15]: https://img.shields.io/badge/00.0%25-red?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP%2F%2F%2F%2F%2F%2F%2F+ZwRTAAAAACdFJOUwCWb%2F%2F7SQAAAEFJREFUCNdjYGBoYGBgYAJiBg4QocWgwMCg0AAUVFACcjU0QGILGBhEQZIODkBCgMWRgYHVxcWBwcHFFSjByOgAALwsBiifvOk+AAAAAElFTkSuQmCC
 [Text_1_5_6_link]: https://github.com/Regnander/stardew-valley-swedish/issues/1 "View detailed progress"
 [Text_1_6_8_link]: https://github.com/Regnander/stardew-valley-swedish/issues/29 "View detailed progress"
